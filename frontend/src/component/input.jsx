@@ -14,7 +14,7 @@ const tripOptions = [
 export default function TravelForm() {
 
   // ---------------- API URL ----------------
-  const API_URL = import.meta.env.NEXT_PUBLIC_API_URL;
+ const API_URL = import.meta.env.VITE_API_URL;
 
   // ---------------- Form ----------------
   const [form, setForm] = useState(() => {
