@@ -13,10 +13,14 @@ const tripOptions = [
 
 export default function TravelForm() {
 
+  // ---------------- API URL ----------------
+  const API_URL = import.meta.env.NEXT_PUBLIC_API_URL;
+
   // ---------------- Form ----------------
   const [form, setForm] = useState(() => {
     try {
       const saved = localStorage.getItem("travelForm");
+
       return saved
         ? JSON.parse(saved)
         : {
@@ -58,13 +62,14 @@ export default function TravelForm() {
   const [results, setResults] = useState(() => {
     try {
       const saved = localStorage.getItem("results");
+
       return saved ? JSON.parse(saved) : [];
     } catch {
       return [];
     }
   });
 
-  // ---------------- Save Local Storage ----------------
+  // ---------------- Save Form ----------------
   useEffect(() => {
     localStorage.setItem(
       "travelForm",
@@ -72,6 +77,7 @@ export default function TravelForm() {
     );
   }, [form]);
 
+  // ---------------- Save Preferences ----------------
   useEffect(() => {
     localStorage.setItem(
       "preferences",
@@ -79,6 +85,7 @@ export default function TravelForm() {
     );
   }, [preferences]);
 
+  // ---------------- Save Results ----------------
   useEffect(() => {
     localStorage.setItem(
       "results",
@@ -86,7 +93,7 @@ export default function TravelForm() {
     );
   }, [results]);
 
-  // ---------------- Handle Form ----------------
+  // ---------------- Handle Form Change ----------------
   const handleChange = (e) => {
     setForm({
       ...form,
@@ -94,12 +101,14 @@ export default function TravelForm() {
     });
   };
 
-  // ---------------- Handle Preference ----------------
+  // ---------------- Handle Preference Change ----------------
   const handlePreferenceChange = (type, value) => {
 
     value = value === "" ? 0 : Number(value);
 
-    if (value < 0 || value > 5) return;
+    if (value < 0 || value > 5) {
+      return;
+    }
 
     setPreferences((prev) =>
       prev.map((item) =>
@@ -116,11 +125,13 @@ export default function TravelForm() {
   // ---------------- Submit ----------------
   const handleSubmit = async () => {
 
-    if (!form.location.trim()) {  
+    // Check location
+    if (!form.location.trim()) {
       alert("Please enter your location.");
       return;
     }
 
+    // Check distance
     if (!form.max_distance) {
       alert("Please enter maximum travel distance.");
       return;
@@ -133,11 +144,12 @@ export default function TravelForm() {
     };
 
     console.log("Payload:", payload);
+    console.log("API URL:", API_URL);
 
     try {
 
       const response = await axios.post(
-        "http://127.0.0.1:5000/api/recommend",
+        `${API_URL}api/recommend`,
         payload,
         {
           headers: {
@@ -146,20 +158,27 @@ export default function TravelForm() {
         }
       );
 
-      console.log("Response:", response.data.results);
+      console.log(
+        "Response:",
+        response.data.results
+      );
 
-      setResults(response.data.results || []);
+      setResults(
+        response.data.results || []
+      );
 
     } catch (err) {
 
-      console.error(err);
+      console.error("Request Error:", err);
 
       console.log(
         "Backend Error:",
         err.response?.data
       );
 
-      alert("Failed to fetch recommendations.");
+      alert(
+        "Failed to fetch recommendations."
+      );
     }
   };
 
@@ -185,6 +204,7 @@ export default function TravelForm() {
     setResults([]);
   };
 
+  // ---------------- UI ----------------
   return (
     <div className="container">
 
@@ -264,6 +284,7 @@ export default function TravelForm() {
                   marginBottom: "10px"
                 }}
               >
+
                 <span className="icon">
                   {item.icon}
                 </span>
@@ -271,6 +292,7 @@ export default function TravelForm() {
                 <span>
                   {item.name}
                 </span>
+
               </div>
 
               <input
@@ -298,6 +320,7 @@ export default function TravelForm() {
 
       </div>
 
+      {/* Get Recommendations */}
       <button
         className="btn"
         onClick={handleSubmit}
@@ -305,6 +328,7 @@ export default function TravelForm() {
         Get Recommendations
       </button>
 
+      {/* Clear */}
       <button
         className="btn"
         style={{
@@ -316,6 +340,7 @@ export default function TravelForm() {
         Clear
       </button>
 
+      {/* Results */}
       <District results={results} />
 
     </div>

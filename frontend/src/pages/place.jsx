@@ -1,22 +1,38 @@
 import React from "react";
-import { useLocation } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
 import "../css/place.css";
 
 const DistrictPlaces = () => {
   const location = useLocation();
+  const navigate = useNavigate();
+
+  // -----------------------------------------
+  // Data from previous page
+  // -----------------------------------------
 
   const places = location.state?.places || [];
   const district = location.state?.district || "";
   const districtInfo = location.state?.districtInfo || null;
 
   // -----------------------------------------
-  // Safe values
+  // Safe weather values
   // -----------------------------------------
 
- const temperature = districtInfo?.temperature;
-const humidity = districtInfo?.humidity;
-const rain = districtInfo?.precipitation;
-const wind = districtInfo?.wind_speed;
+  const temperature = districtInfo?.temperature;
+  const humidity = districtInfo?.humidity;
+  const rain = districtInfo?.precipitation;
+  const wind = districtInfo?.wind_speed;
+
+  // -----------------------------------------
+  // Navigate to place
+  // Works in local + production
+  // -----------------------------------------
+
+  const handlePlaceNavigation = (place) => {
+    navigate(
+      `/destination/${place.district_slug}/${place.place_slug}`
+    );
+  };
 
   return (
     <div className="district-page">
@@ -56,6 +72,7 @@ const wind = districtInfo?.wind_speed;
           <div className="info-title">
 
             <div>
+
               <span className="section-label">
                 DISTRICT INSIGHTS
               </span>
@@ -63,6 +80,7 @@ const wind = districtInfo?.wind_speed;
               <h2>
                 Today's Travel Information
               </h2>
+
             </div>
 
           </div>
@@ -90,7 +108,8 @@ const wind = districtInfo?.wind_speed;
                 </span>
 
                 <strong>
-                  {temperature !== undefined
+                  {temperature !== undefined &&
+                  temperature !== null
                     ? `${temperature}°C`
                     : "--"}
                 </strong>
@@ -115,7 +134,8 @@ const wind = districtInfo?.wind_speed;
                 </span>
 
                 <strong>
-                  {humidity !== undefined
+                  {humidity !== undefined &&
+                  humidity !== null
                     ? `${humidity}%`
                     : "--"}
                 </strong>
@@ -140,7 +160,8 @@ const wind = districtInfo?.wind_speed;
                 </span>
 
                 <strong>
-                  {rain !== undefined
+                  {rain !== undefined &&
+                  rain !== null
                     ? `${rain} mm`
                     : "--"}
                 </strong>
@@ -165,7 +186,8 @@ const wind = districtInfo?.wind_speed;
                 </span>
 
                 <strong>
-                  {wind !== undefined
+                  {wind !== undefined &&
+                  wind !== null
                     ? `${wind} km/h`
                     : "--"}
                 </strong>
@@ -276,14 +298,13 @@ const wind = districtInfo?.wind_speed;
               key={i}
               className="result-card"
               onClick={() =>
-                window.open(
-                  `https://beliketraveller.vercel.app/destination/${place.district_slug}/${place.place_slug}`,
-                  "_blank"
-                )
+                handlePlaceNavigation(place)
               }
             >
 
-              {/* Image */}
+              {/* =================================
+                  IMAGE
+              ================================= */}
 
               <div className="card-image">
 
@@ -301,10 +322,13 @@ const wind = districtInfo?.wind_speed;
                 {/* Rating */}
 
                 <div className="rating">
+
                   ⭐{" "}
+
                   {Number(
                     place.rating || 0
                   ).toFixed(1)}
+
                 </div>
 
 
@@ -325,7 +349,9 @@ const wind = districtInfo?.wind_speed;
               </div>
 
 
-              {/* Card Content */}
+              {/* =================================
+                  CARD CONTENT
+              ================================= */}
 
               <div className="content">
 
@@ -396,19 +422,28 @@ const wind = districtInfo?.wind_speed;
                 </div>
 
 
+                {/* =================================
+                    EXPLORE BUTTON
+                ================================= */}
+
                 <button
                   className="explore-btn"
                   onClick={(e) => {
+
+                    // Prevent card click
                     e.stopPropagation();
 
-                    window.open(
-                      `https://beliketraveller.vercel.app/destination/${place.district_slug}/${place.place_slug}`,
-                      "_blank"
-                    );
+                    handlePlaceNavigation(place);
+
                   }}
                 >
+
                   Explore Place
-                  <span>→</span>
+
+                  <span>
+                    →
+                  </span>
+
                 </button>
 
               </div>
