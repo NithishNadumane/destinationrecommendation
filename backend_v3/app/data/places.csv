@@ -1,0 +1,6 @@
+place_name,district,latitude,longitude,category,avg_cost,best_season,trip_duration,rating,popularity
+Lalbagh Botanical Garden,Bengaluru Urban,12.9507,77.5848,Nature,50,All,1,4.5,95
+Cubbon Park,Bengaluru Urban,12.9734,77.5913,Nature,0,All,1,4.4,90
+Bangalore Palace,Bengaluru Urban,12.9988,77.5921,Heritage,500,Winter,1,4.2,88
+ISKCON Temple,Bengaluru Urban,13.0102,77.5511,Temple,100,All,1,4.7,92
+Bannerghatta Biological Park,Bengaluru Urban,12.7964,77.5753,Nature,400,Winter,1,4.3,85

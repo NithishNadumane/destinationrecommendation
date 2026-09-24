@@ -1,0 +1,776 @@
+place_name,district,latitude,longitude,category,avg_cost,best_season,trip_duration,rating,popularity
+Lalbagh Botanical Garden,Bengaluru Urban,12.9507,77.5848,nature,50,all,1,4.5,95
+Cubbon Park,Bengaluru Urban,12.9734,77.5913,nature,0,all,1,4.4,90
+Bangalore Palace,Bengaluru Urban,12.9988,77.5921,heritage,500,winter,1,4.2,88
+ISKCON Temple,Bengaluru Urban,13.0102,77.5511,temple,100,all,1,4.7,92
+Bannerghatta Biological Park,Bengaluru Urban,12.7964,77.5753,nature,400,winter,1,4.3,85
+Visvesvaraya Museum,Bengaluru Urban,12.9752,77.5963,heritage,100,all,1,4.6,82
+Bull Temple,Bengaluru Urban,12.9421,77.5683,temple,0,all,1,4.5,78
+Commercial Street,Bengaluru Urban,12.9822,77.6083,heritage,1000,all,1,4.1,94
+Vidhana Soudha,Bengaluru Urban,12.9796,77.5906,heritage,0,all,1,4.8,96
+Jawaharlal Nehru Planetarium,Bengaluru Urban,12.9849,77.5891,nature,100,all,1,4.2,75
+St. Mary's Basilica,Bengaluru Urban,12.9847,77.6049,temple,0,all,1,4.4,70
+Ulsoor Lake,Bengaluru Urban,12.9818,77.6224,nature,50,monsoon,1,4,65
+Tipu Sultan's Summer Palace,Bengaluru Urban,12.9593,77.5738,heritage,50,winter,1,4.1,68
+National Gallery of Modern Art,Bengaluru Urban,12.9897,77.5894,heritage,100,all,1,4.5,60
+Lumbini Gardens,Bengaluru Urban,13.0416,77.6111,nature,200,summer,1,3.8,55
+Freedom Park,Bengaluru Urban,12.9772,77.5804,heritage,0,all,1,3.9,50
+Turahalli Forest,Bengaluru Urban,12.8795,77.5255,adventure,0,winter,1,4.1,45
+Hesaraghatta Lake,Bengaluru Urban,13.1364,77.4812,nature,0,monsoon,1,4.2,40
+Orion Mall,Bengaluru Urban,13.0111,77.555,heritage,1500,all,1,4.6,85
+Wonderla,Bengaluru Urban,12.8343,77.401,adventure,1800,summer,1,4.7,90
+Karnataka Chitrakala Parishath,Bengaluru Urban,12.9877,77.5835,heritage,50,all,1,4.5,58
+Venkatappa Art Gallery,Bengaluru Urban,12.9755,77.5961,heritage,50,all,1,4.2,52
+Brigade Road,Bengaluru Urban,12.9738,77.6072,heritage,500,all,1,4.4,92
+M Chinnaswamy Stadium,Bengaluru Urban,12.9788,77.5996,heritage,200,all,1,4.6,88
+Dodda Alada Mara,Bengaluru Urban,12.92,77.39,nature,0,all,1,4.1,72
+Mysore Palace,Mysore,12.3051,76.6551,heritage,100,all,1,4.9,100
+Chamundi Hill,Mysore,12.2741,76.6741,temple,0,all,1,4.8,98
+Brindavan Gardens,Mysore,12.4241,76.5741,nature,50,winter,1,4.6,95
+Mysore Zoo,Mysore,12.3021,76.6641,nature,100,winter,1,4.7,92
+St. Philomena's Church,Mysore,12.3211,76.6591,temple,0,all,1,4.6,88
+Jaganmohan Palace,Mysore,12.3061,76.6501,heritage,50,all,1,4.4,85
+Karanji Lake,Mysore,12.3021,76.6741,nature,50,winter,1,4.3,80
+Railway Museum,Mysore,12.3161,76.6451,heritage,50,all,1,4.2,75
+Lalitha Mahal Palace,Mysore,12.2981,76.6941,heritage,200,all,1,4.5,78
+Somanathapura Temple,Mysore,12.2741,76.8841,heritage,50,all,1,4.9,90
+KRS Dam,Mysore,12.4241,76.5721,nature,50,monsoon,1,4.5,92
+Natural History Museum,Mysore,12.3021,76.6781,heritage,0,all,1,4.1,65
+RK Narayan House,Mysore,12.3241,76.6421,heritage,50,all,1,4.3,60
+GRS Fantasy Park,Mysore,12.3541,76.6341,adventure,900,summer,1,4.4,82
+Melukote,Mysore,12.6641,76.6541,temple,0,all,1,4.7,85
+Talakadu,Mysore,12.1941,77.0241,heritage,0,winter,1,4.5,80
+T Narasipura Sangama,Mysore,12.2141,76.9141,temple,0,all,1,4.2,65
+Nanjangud Temple,Mysore,12.1141,76.6741,temple,0,all,1,4.8,88
+Bylakuppe Golden Temple,Mysore,12.4241,75.9641,temple,0,all,1,4.9,94
+Bandipur National Park,Mysore,11.6641,76.6241,nature,300,winter,2,4.8,96
+Crawford Hall,Mysore,12.3041,76.6441,heritage,0,all,1,4,50
+Happy Man Park,Mysore,12.3241,76.6241,nature,0,all,1,3.8,45
+Kukkarahalli Lake,Mysore,12.3081,76.6341,nature,0,winter,1,4.3,70
+Lingabudi Lake,Mysore,12.2841,76.6141,nature,0,winter,1,4.1,55
+Sand Sculpture Museum,Mysore,12.2841,76.6781,heritage,50,all,1,4.2,62
+Virupaksha Temple,Vijayanagara,15.335,76.46,temple,0,all,1,4.8,98
+Vittala Temple,Vijayanagara,15.3389,76.4733,heritage,50,all,1,4.9,95
+Lotus Mahal,Vijayanagara,15.3312,76.4678,heritage,40,winter,1,4.6,88
+Elephant Stables,Vijayanagara,15.3325,76.4712,heritage,40,winter,1,4.5,85
+Hazara Rama Temple,Vijayanagara,15.333,76.4645,heritage,0,all,1,4.7,82
+Queen's Bath,Vijayanagara,15.3268,76.4672,heritage,0,winter,1,4.4,78
+Matanga Hill,Vijayanagara,15.3355,76.466,adventure,0,winter,1,4.8,90
+Hemakuta Hill,Vijayanagara,15.334,76.459,heritage,0,all,1,4.7,84
+Achyutaraya Temple,Vijayanagara,15.3365,76.4705,temple,0,all,1,4.6,76
+Tungabhadra Dam,Vijayanagara,15.2635,76.3392,nature,20,monsoon,1,4.5,92
+Stone Chariot,Vijayanagara,15.3391,76.4735,heritage,0,all,1,4.9,97
+Ugra Narasimha Statue,Vijayanagara,15.3321,76.4592,heritage,0,all,1,4.8,89
+Badavi Linga,Vijayanagara,15.3323,76.4593,temple,0,all,1,4.7,81
+King's Balance,Vijayanagara,15.3402,76.4745,heritage,0,all,1,4.3,65
+Sasivekalu Ganesha,Vijayanagara,15.332,76.4585,temple,0,all,1,4.6,74
+Kadalekalu Ganesha,Vijayanagara,15.3338,76.4588,temple,0,all,1,4.5,72
+Stepped Tank,Vijayanagara,15.3315,76.464,heritage,0,winter,1,4.7,80
+Mahanavami Dibba,Vijayanagara,15.3305,76.4645,heritage,0,winter,1,4.4,70
+Daroji Bear Sanctuary,Vijayanagara,15.266,76.672,nature,300,winter,1,4.3,60
+Zanana Enclosure,Vijayanagara,15.331,76.4675,heritage,40,winter,1,4.2,68
+Anjanadri Hill,Vijayanagara,15.345,76.485,adventure,0,winter,1,4.9,94
+Old Palace Remains,Vijayanagara,15.33,76.462,heritage,0,winter,1,4,55
+Riverside Ruins,Vijayanagara,15.338,76.465,heritage,0,all,1,4.5,62
+Sanapur Lake,Vijayanagara,15.352,76.458,nature,100,winter,1,4.6,80
+Pampa Sarovar,Vijayanagara,15.356,76.478,temple,0,all,1,4.4,58
+Abbey Falls,Kodagu,12.4505,75.717,nature,50,monsoon,1,4.7,92
+Raja's Seat,Kodagu,12.4168,75.738,nature,20,winter,1,4.6,90
+Talakaveri,Kodagu,12.3881,75.4883,temple,0,all,1,4.8,95
+Bhagamandala,Kodagu,12.392,75.5264,temple,0,all,1,4.5,88
+Dubare Elephant Camp,Kodagu,12.3667,75.9,nature,150,winter,1,4.4,85
+Iruppu Falls,Kodagu,12.0125,75.9675,nature,50,monsoon,1,4.7,82
+Tadiandamol Peak,Kodagu,12.2178,75.6136,adventure,0,winter,1,4.9,80
+Mandalpatti Peak,Kodagu,12.4941,75.7241,adventure,500,winter,1,4.8,88
+Namdroling Monastery,Kodagu,12.4296,75.9674,temple,0,all,1,4.9,96
+Nagarhole National Park,Kodagu,12.0344,76.161,nature,300,winter,2,4.8,94
+Madikeri Fort,Kodagu,12.4208,75.7397,heritage,0,all,1,4.2,78
+Chelavara Falls,Kodagu,12.2355,75.6322,nature,0,monsoon,1,4.4,70
+Mallalli Falls,Kodagu,12.6567,75.6833,nature,0,monsoon,1,4.5,72
+Honnamana Kere,Kodagu,12.645,75.8167,temple,0,all,1,4.1,60
+Omkareshwara Temple,Kodagu,12.4225,75.7389,temple,0,all,1,4.3,75
+Cauvery Nisargadhama,Kodagu,12.4533,75.9322,nature,50,all,1,4,80
+Gaddige Tombs,Kodagu,12.4289,75.7422,heritage,10,all,1,4.1,65
+Brahmagiri Peak,Kodagu,11.9967,75.9622,adventure,200,winter,1,4.6,68
+Chiklihole Reservoir,Kodagu,12.38,75.87,nature,0,monsoon,1,4.2,55
+Harangi Dam,Kodagu,12.4933,75.9008,nature,20,monsoon,1,4.3,72
+Coffee Plantation Tours,Kodagu,12.42,75.73,nature,300,winter,1,4.5,82
+Kote Betta Trek,Kodagu,12.5167,75.7667,adventure,0,winter,1,4.4,60
+Barapole River Rafting,Kodagu,12,75.88,adventure,1200,monsoon,1,4.7,75
+Nalknad Palace,Kodagu,12.2333,75.645,heritage,0,all,1,4.2,50
+Pushpagiri Sanctuary,Kodagu,12.66,75.68,nature,100,winter,1,4.6,64
+Mullayanagiri,Chikkamagaluru,13.3911,75.7214,nature,0,winter,1,4.9,98
+Baba Budangiri,Chikkamagaluru,13.4225,75.7641,adventure,0,winter,1,4.7,95
+Hebbe Falls,Chikkamagaluru,13.5411,75.7241,nature,500,monsoon,1,4.8,92
+Kudremukh Peak,Chikkamagaluru,13.1251,75.2641,adventure,200,winter,1,4.9,94
+Hirekolale Lake,Chikkamagaluru,13.3421,75.7141,nature,0,winter,1,4.5,88
+Jhari Falls,Chikkamagaluru,13.4211,75.7741,nature,100,monsoon,1,4.6,90
+Kemmangundi,Chikkamagaluru,13.5421,75.7541,nature,50,winter,1,4.6,85
+Bhadra Wildlife Sanctuary,Chikkamagaluru,13.6821,75.6421,nature,400,winter,1,4.5,82
+Z Point,Chikkamagaluru,13.5511,75.7641,adventure,0,winter,1,4.4,78
+Kallathigiri Falls,Chikkamagaluru,13.5341,75.8241,temple,0,monsoon,1,4.3,75
+Sringeri Sharada Peetham,Chikkamagaluru,13.4121,75.2541,temple,0,all,1,4.9,96
+Horanadu Annapoorneshwari,Chikkamagaluru,13.2721,75.3441,temple,0,all,1,4.8,94
+Belavadi Temple,Chikkamagaluru,13.2841,75.9941,heritage,0,all,1,4.7,70
+Amrutesvara Temple,Chikkamagaluru,13.5121,75.8241,heritage,0,all,1,4.6,65
+Ayyanakere Lake,Chikkamagaluru,13.4741,75.9241,nature,0,winter,1,4.2,60
+Sirimane Falls,Chikkamagaluru,13.4541,75.1841,nature,50,monsoon,1,4.4,68
+Kudremukh National Park,Chikkamagaluru,13.2131,75.2534,nature,200,winter,2,4.7,85
+Kalasa,Chikkamagaluru,13.2341,75.3641,temple,0,all,1,4.5,72
+Ballalarayana Durga,Chikkamagaluru,13.1421,75.4041,adventure,0,winter,1,4.6,62
+Manikyadhara Falls,Chikkamagaluru,13.4341,75.7641,nature,0,monsoon,1,4.1,70
+Deviramma Temple,Chikkamagaluru,13.4241,75.8241,temple,0,all,1,4.4,55
+Kyathanamakki,Chikkamagaluru,13.2541,75.3241,adventure,300,winter,1,4.7,58
+Kottigehara,Chikkamagaluru,13.1341,75.5241,nature,0,monsoon,1,4.3,50
+Kodanda Rama Temple,Chikkamagaluru,13.3141,75.7741,temple,0,all,1,4.3,48
+Galikere Lake,Chikkamagaluru,13.4341,75.7541,nature,0,winter,1,4.2,45
+Gokarna Main Beach,Uttara Kannada,14.5441,74.3141,beach,0,winter,1,4.5,95
+Om Beach,Uttara Kannada,14.5141,74.3241,beach,0,winter,1,4.7,98
+Kudle Beach,Uttara Kannada,14.5241,74.3141,beach,0,winter,1,4.6,94
+Murudeshwar Temple,Uttara Kannada,14.0941,74.4841,temple,0,all,1,4.9,96
+Jog Falls,Uttara Kannada,14.2241,74.8141,nature,50,monsoon,1,4.9,98
+Dandeli Rafting,Uttara Kannada,15.2441,74.6241,adventure,1500,summer,1,4.9,90
+Yana Rocks,Uttara Kannada,14.5941,74.5641,adventure,0,winter,1,4.7,85
+Murudeshwar Beach,Uttara Kannada,14.0941,74.4841,beach,0,winter,1,4.4,92
+Sathodi Falls,Uttara Kannada,14.9341,74.8741,nature,0,monsoon,1,4.6,80
+Unchalli Falls,Uttara Kannada,14.4141,74.7541,nature,0,monsoon,1,4.5,78
+Magod Falls,Uttara Kannada,14.8541,74.7641,nature,0,monsoon,1,4.4,75
+Sirsi Marikamba Temple,Uttara Kannada,14.6241,74.8441,temple,0,all,1,4.7,82
+Sahasralinga,Uttara Kannada,14.6141,74.8941,heritage,0,winter,1,4.5,70
+Kavala Caves,Uttara Kannada,15.1441,74.3541,adventure,100,winter,1,4.3,65
+Syntheri Rocks,Uttara Kannada,15.2841,74.5841,nature,50,winter,1,4.4,68
+Karwar Warship Museum,Uttara Kannada,14.8141,74.1241,heritage,50,all,1,4.4,75
+Rabindranath Tagore Beach,Uttara Kannada,14.8141,74.1241,beach,0,winter,1,4.3,78
+Half Moon Beach,Uttara Kannada,14.5141,74.3341,beach,0,winter,1,4.5,70
+Paradise Beach,Uttara Kannada,14.5041,74.3441,beach,0,winter,1,4.6,72
+Mirjan Fort,Uttara Kannada,14.4841,74.4141,heritage,0,winter,1,4.5,80
+Apsarakonda Falls,Uttara Kannada,14.2641,74.4341,nature,0,monsoon,1,4.3,62
+Idagunji Ganapathi Temple,Uttara Kannada,14.3041,74.4841,temple,0,all,1,4.7,75
+Ulavi Temple,Uttara Kannada,15.0141,74.5141,temple,0,all,1,4.5,65
+Banavasi Madhukeshwara,Uttara Kannada,14.5333,75.0167,heritage,0,all,1,4.6,60
+Vibhuti Falls,Uttara Kannada,14.5833,74.6333,nature,0,monsoon,1,4.4,72
+Panambur Beach,Mangalore,12.9341,74.8141,beach,50,all,1,4.4,92
+Tannirbhavi Beach,Mangalore,12.8941,74.8141,beach,50,all,1,4.3,88
+Mangaladevi Temple,Mangalore,12.8441,74.8441,temple,0,all,1,4.6,85
+Kadri Manjunatha Temple,Mangalore,12.8841,74.8541,temple,0,all,1,4.5,82
+St. Aloysius Chapel,Mangalore,12.8741,74.8441,heritage,50,all,1,4.7,80
+Pilikula Nisargadhama,Mangalore,12.9241,74.8941,nature,100,all,1,4.4,78
+Kukke Subramanya Temple,Mangalore,12.6641,75.6141,temple,0,all,1,4.9,96
+Dharmasthala Temple,Mangalore,12.9441,75.3841,temple,0,all,1,4.9,97
+Bahubali Statue,Mangalore,12.9541,75.3941,heritage,0,all,1,4.7,85
+Ullal Beach,Mangalore,12.8041,74.8441,beach,0,winter,1,4.1,72
+Someshwara Beach,Mangalore,12.7941,74.8541,beach,0,winter,1,4.2,75
+Kateel Temple,Mangalore,13.0141,74.8541,temple,0,all,1,4.8,90
+Sultan Battery,Mangalore,12.8941,74.8241,heritage,20,all,1,4,65
+Kudroli Temple,Mangalore,12.8741,74.8341,temple,0,all,1,4.7,88
+Surathkal Beach,Mangalore,13.0041,74.7941,beach,0,winter,1,4.3,70
+Lighthouse Hill,Mangalore,12.8741,74.8441,nature,0,all,1,4.1,60
+Sasihithlu Beach,Mangalore,13.0641,74.7841,beach,0,winter,1,4.5,65
+Jamalabad Fort,Mangalore,13.0241,75.3141,adventure,0,winter,1,4.2,50
+Venur Bahubali,Mangalore,13.0141,75.1441,heritage,0,all,1,4.5,58
+Charmadi Ghat,Mangalore,13.0641,75.4541,nature,0,monsoon,1,4.8,85
+Kote Beach,Mangalore,12.78,74.85,beach,0,winter,1,4,40
+Polali Temple,Mangalore,12.9341,74.9541,temple,0,all,1,4.7,68
+Bappanadu Temple,Mangalore,13.1141,74.8141,temple,0,all,1,4.5,55
+Puttur Temple,Mangalore,12.7241,75.2141,temple,0,all,1,4.6,62
+Milagres Church,Mangalore,12.8641,74.8441,temple,0,all,1,4.4,55
+Malpe Beach,Udupi,13.3486,74.7042,beach,50,winter,1,4.6,95
+St. Mary's Island,Udupi,13.3536,74.6736,beach,300,winter,1,4.8,92
+Udupi Krishna Temple,Udupi,13.3408,74.7518,temple,0,all,1,4.9,97
+Kapur Beach,Udupi,13.22,74.74,beach,0,winter,1,4.5,88
+Maravanthe Beach,Udupi,13.71,74.64,beach,0,winter,1,4.7,90
+Kodi Beach,Udupi,13.51,74.68,beach,0,winter,1,4.3,75
+Karkala Bahubali,Udupi,13.21,74.99,heritage,0,all,1,4.6,82
+Varanga Jain Temple,Udupi,13.36,75.05,temple,100,all,1,4.7,80
+Murudeshwar,Udupi,14.09,74.48,temple,0,all,1,4.9,94
+Mookambika Temple Kollur,Udupi,13.86,74.81,temple,0,all,1,4.8,96
+Someshwara Wildlife Sanctuary,Udupi,13.51,75.06,nature,100,winter,1,4.4,65
+Anegudde Temple,Udupi,13.56,74.7,temple,0,all,1,4.5,78
+Delta Point,Udupi,13.38,74.69,beach,0,all,1,4.6,85
+Padubidri Blue Flag Beach,Udupi,13.13,74.77,beach,50,winter,1,4.7,88
+Ottinene Sunset Point,Udupi,13.91,74.63,nature,0,winter,1,4.5,72
+Trasi Beach,Udupi,13.67,74.66,beach,0,winter,1,4.2,60
+Chaturmukha Basadi,Udupi,13.21,74.99,heritage,0,all,1,4.5,68
+Barkur Ruins,Udupi,13.47,74.75,heritage,0,all,1,4,50
+Coin Museum,Udupi,13.34,74.75,heritage,0,all,1,4.1,55
+Pajaka Kshetra,Udupi,13.29,74.79,temple,0,all,1,4.3,62
+Mattur Beach,Udupi,13.3,74.72,beach,0,winter,1,4.1,45
+Malpe Sea Walk,Udupi,13.35,74.7,beach,0,all,1,4.5,85
+Manipal Lake,Udupi,13.35,74.79,nature,20,all,1,4.2,70
+Hastha Shilpa Heritage,Udupi,13.35,74.79,heritage,200,all,1,4.6,65
+Kaup Lighthouse,Udupi,13.22,74.74,beach,30,winter,1,4.8,90
+Gol Gumbaz,Vijayapura,16.8341,75.7141,heritage,50,winter,1,4.9,98
+Ibrahim Rauza,Vijayapura,16.8241,75.7041,heritage,50,winter,1,4.8,90
+Jumma Masjid,Vijayapura,16.8241,75.7241,heritage,0,all,1,4.5,82
+Barakaman,Vijayapura,16.8241,75.7141,heritage,0,winter,1,4.4,75
+Malik-e-Maidan,Vijayapura,16.8341,75.7041,heritage,0,all,1,4.3,72
+Upli Buruz,Vijayapura,16.8341,75.7041,heritage,0,all,1,4.1,65
+Asar Mahal,Vijayapura,16.8241,75.7241,heritage,0,all,1,4,60
+Gagan Mahal,Vijayapura,16.8241,75.7141,heritage,0,all,1,4,58
+Sat Manzil,Vijayapura,16.8241,75.7141,heritage,0,all,1,3.9,50
+Taj Bawdi,Vijayapura,16.8241,75.7041,heritage,0,all,1,3.8,48
+Mehtar Mahal,Vijayapura,16.8241,75.7241,heritage,0,all,1,4.2,55
+Shivagiri,Vijayapura,16.8541,75.7441,temple,0,all,1,4.6,85
+Siddeshwara Temple,Vijayapura,16.8241,75.7141,temple,0,all,1,4.5,78
+Almatti Dam,Vijayapura,16.3341,75.8841,nature,50,monsoon,1,4.5,88
+Kudalasangama,Vijayapura,16.2141,75.9941,temple,0,all,1,4.8,92
+Basavana Bagewadi,Vijayapura,16.5741,75.9841,temple,0,all,1,4.4,70
+Torvi Temple,Vijayapura,16.8141,75.6641,temple,0,all,1,4.2,52
+Afzal Khan Cenotaph,Vijayapura,16.8241,75.7441,heritage,0,all,1,3.7,40
+Bijapur Fort,Vijayapura,16.8341,75.7141,heritage,0,all,1,4,62
+Anand Mahal,Vijayapura,16.8241,75.7141,heritage,0,all,1,3.9,48
+Arkilla,Vijayapura,16.8241,75.7141,heritage,0,all,1,3.8,42
+Jod Gumbaz,Vijayapura,16.8241,75.7141,heritage,0,all,1,4.1,55
+Navraspur Ruins,Vijayapura,16.8141,75.6741,heritage,0,all,1,4,50
+Chand Bawdi,Vijayapura,16.82,75.71,heritage,0,all,1,3.6,35
+Landa Kasab Cannon,Vijayapura,16.83,75.7,heritage,0,all,1,3.8,40
+Bidar Fort,Bidar,17.9271,77.5255,heritage,0,all,1,4.7,90
+Mahmud Gawan Madrasa,Bidar,17.915,77.518,heritage,0,all,1,4.5,80
+Rangin Mahal,Bidar,17.928,77.526,heritage,0,all,1,4.6,78
+Guru Nanak Jhira Sahib,Bidar,17.918,77.502,temple,0,all,1,4.8,92
+Narasimha Jhira Cave Temple,Bidar,17.935,77.545,temple,0,all,1,4.7,88
+Bahmani Tombs,Bidar,17.92,77.58,heritage,0,winter,1,4.4,75
+Papnash Shiva Temple,Bidar,17.9,77.5,temple,0,all,1,4.3,65
+Chaubara,Bidar,17.914,77.517,heritage,0,all,1,4,60
+Tarkash Mahal,Bidar,17.9275,77.5258,heritage,0,all,1,4.2,55
+Gagan Mahal Bidar,Bidar,17.9272,77.5252,heritage,0,all,1,4.1,52
+Solah Khamba Mosque,Bidar,17.926,77.524,heritage,0,all,1,4.5,70
+Barid Shahi Tombs,Bidar,17.91,77.5,heritage,0,all,1,4.2,62
+Basavakalyan Fort,Bidar,17.87,76.95,heritage,0,all,1,4.6,75
+Anubhav Mantapa,Bidar,17.875,76.945,heritage,0,all,1,4.5,68
+Basaveshwara Temple,Bidar,17.872,76.948,temple,0,all,1,4.4,65
+Deva Deva Vana,Bidar,17.95,77.55,nature,20,all,1,4,50
+Karanja Dam,Bidar,17.85,77.35,nature,0,monsoon,1,4.1,55
+Papanashini Teertha,Bidar,17.905,77.505,nature,0,all,1,4,42
+Jharani Narasimha Cave,Bidar,17.9355,77.5455,adventure,0,all,1,4.6,85
+Bidar Handicraft Center,Bidar,17.91,77.51,heritage,500,all,1,4.3,58
+Chaukhandi,Bidar,17.925,77.575,heritage,0,winter,1,4.4,52
+Manik Prabhu Temple,Bidar,17.75,77.2,temple,0,all,1,4.5,60
+Humnabad Veerabhadreshwara,Bidar,17.77,77.13,temple,0,all,1,4.6,68
+Revaana Siddeshwara Temple,Bidar,17.9,77.51,temple,0,all,1,4.1,40
+Vilaspur Lake,Bidar,17.95,77.52,nature,0,monsoon,1,3.9,35
+Badami Cave Temples,Bagalkot,15.9125,75.6795,heritage,50,winter,1,4.9,98
+Pattadakal,Bagalkot,15.949,75.8164,heritage,50,winter,1,4.9,95
+Aihole,Bagalkot,16.021,75.8824,heritage,50,winter,1,4.8,92
+Agastya Lake,Bagalkot,15.918,75.682,nature,0,winter,1,4.5,80
+Badami Fort,Bagalkot,15.922,75.688,heritage,0,winter,1,4.4,75
+Banashankari Temple,Bagalkot,15.882,75.702,temple,0,all,1,4.7,85
+Mahakuta Temples,Bagalkot,15.932,75.726,temple,0,all,1,4.6,82
+Bhootnath Temples,Bagalkot,15.919,75.684,temple,0,all,1,4.7,84
+Mallikarjuna Temples,Bagalkot,15.917,75.683,temple,0,all,1,4.3,65
+Kudalasangama Temple,Bagalkot,16.214,75.996,temple,0,all,1,4.8,90
+Almatti Dam,Bagalkot,16.33,75.89,nature,20,monsoon,1,4.5,88
+Rock-cut Elephant,Bagalkot,16.022,75.883,heritage,0,winter,1,4,50
+Durga Temple Aihole,Bagalkot,16.019,75.881,heritage,0,all,1,4.7,82
+Lad Khan Temple,Bagalkot,16.018,75.88,heritage,0,all,1,4.5,70
+Virupaksha Pattadakal,Bagalkot,15.948,75.815,heritage,0,all,1,4.8,85
+Ravana Phadi Cave,Bagalkot,16.025,75.885,heritage,0,all,1,4.4,60
+Meguti Jain Temple,Bagalkot,16.02,75.89,heritage,0,all,1,4.3,58
+Jain Temple Badami,Bagalkot,15.913,75.68,heritage,0,all,1,4.2,55
+Huchappayya Math,Bagalkot,16.015,75.875,heritage,0,all,1,4.1,48
+Siddeshwara Temple,Bagalkot,16.18,75.7,temple,0,all,1,4,52
+Galaganatha Temple,Bagalkot,15.945,75.812,heritage,0,all,1,4.4,55
+Sangameshwara Temple,Bagalkot,15.947,75.814,temple,0,all,1,4.3,50
+Huchimalli Temple,Bagalkot,16.023,75.884,heritage,0,all,1,4.2,45
+Bagalkot Museum,Bagalkot,15.915,75.678,heritage,20,all,1,4.1,40
+Malegitti Shivalaya,Bagalkot,15.925,75.685,temple,0,all,1,4.4,58
+Jog Falls,Shivamogga,14.228,74.8114,nature,50,monsoon,1,4.9,100
+Kodachadri,Shivamogga,13.858,74.87,adventure,500,winter,1,4.8,92
+Sakrebyle Elephant Camp,Shivamogga,13.882,75.523,nature,100,winter,1,4.6,88
+Gajanur Dam,Shivamogga,13.885,75.515,nature,0,monsoon,1,4.3,75
+Lion and Tiger Safari,Shivamogga,13.985,75.555,adventure,100,winter,1,4.4,82
+Kuvempu Memorial,Shivamogga,13.593,75.325,heritage,50,all,1,4.8,85
+Agumbe Sunset Point,Shivamogga,13.51,75.09,nature,0,winter,1,4.7,94
+Barkana Falls,Shivamogga,13.52,75.11,nature,0,monsoon,1,4.5,70
+Kavaledurga Fort,Shivamogga,13.715,75.125,adventure,0,winter,1,4.6,68
+Keladi Temple,Shivamogga,14.218,75.013,heritage,0,all,1,4.7,72
+Ikkeri Aghoreshwara,Shivamogga,14.125,75.015,heritage,0,all,1,4.7,74
+Sigandur Chowdeshwari,Shivamogga,14.118,74.843,temple,100,all,1,4.8,90
+Sharavathi Camp,Shivamogga,14.155,74.852,adventure,2000,summer,1,4.5,80
+Mandagadde Bird Sanctuary,Shivamogga,13.742,75.451,nature,50,winter,1,4.2,65
+Bhadra Dam,Shivamogga,13.711,75.635,nature,0,monsoon,1,4.4,78
+Honnemaradu,Shivamogga,14.185,74.885,adventure,500,summer,1,4.6,76
+Shivappa Nayaka Palace,Shivamogga,13.928,75.572,heritage,20,all,1,4.1,55
+Kudli Sangama,Shivamogga,13.922,75.584,temple,0,all,1,4.5,60
+Ambuthirtha,Shivamogga,13.585,75.318,temple,0,all,1,4.4,52
+Achakanya Falls,Shivamogga,13.743,75.115,nature,0,monsoon,1,4.1,48
+Dabbe Falls,Shivamogga,14.121,74.825,nature,0,monsoon,1,4.4,62
+Linganamakki Dam,Shivamogga,14.182,74.841,nature,0,monsoon,1,4.3,70
+Jogimatti,Shivamogga,14.225,74.815,nature,0,all,1,4,50
+Tavarekoppa Safari,Shivamogga,13.987,75.558,nature,100,winter,1,4.3,65
+Nagavara Lake,Shivamogga,13.924,75.564,nature,0,all,1,3.8,40
+Chitradurga Fort,Chitradurga,14.225,76.4,heritage,25,all,1,4.8,95
+Chandravalli Caves,Chitradurga,14.205,76.395,heritage,0,all,1,4.6,82
+Vani Vilas Sagar Dam,Chitradurga,13.88,76.48,nature,0,monsoon,1,4.7,88
+Jogimatti Hill,Chitradurga,14.15,76.4,nature,0,winter,1,4.4,75
+Murugha Matha,Chitradurga,14.23,76.39,temple,0,all,1,4.5,70
+Adumalleshwara Temple,Chitradurga,14.19,76.41,temple,0,all,1,4.2,60
+Akkathangi Kola,Chitradurga,14.226,76.402,nature,0,all,1,4.1,55
+Timmanna Nayaka Fort,Chitradurga,14.224,76.401,heritage,0,all,1,4,50
+Ekanatheshwari Temple,Chitradurga,14.2255,76.4005,temple,0,all,1,4.3,58
+Holalkere Ganesha,Chitradurga,14.03,76.19,temple,0,all,1,4.5,65
+Neerthadi Rameshwara,Chitradurga,14.2,76.1,temple,0,all,1,4.2,45
+Gayathri Dam,Chitradurga,13.75,76.45,nature,0,monsoon,1,4.1,52
+Sirigere Matha,Chitradurga,14.35,76.25,temple,0,all,1,4.4,58
+Panchavati,Chitradurga,14.21,76.41,nature,0,all,1,3.8,40
+Obavva Kindi,Chitradurga,14.2252,76.4008,heritage,0,all,1,4.7,85
+Hidimbeshwara Temple,Chitradurga,14.2265,76.4015,temple,0,all,1,4.4,50
+Kudli Sangama,Chitradurga,14.4,76.3,nature,0,all,1,4,42
+Himavat Kedaya,Chitradurga,14.16,76.42,nature,0,monsoon,1,4.2,48
+Ingaladhal Caves,Chitradurga,14.18,76.45,adventure,0,all,1,3.7,35
+Dasharatha Rameshwara,Chitradurga,13.95,76.55,temple,0,all,1,4.3,52
+Molakalmuru Silk Hub,Chitradurga,14.73,76.75,heritage,500,all,1,4.2,60
+Jatayu Rock,Chitradurga,14.7,76.78,heritage,0,all,1,4.1,45
+Nayakanahatti Temple,Chitradurga,14.45,76.82,temple,0,all,1,4.5,65
+Dharmapura Dam,Chitradurga,13.78,76.8,nature,0,monsoon,1,3.9,40
+Bommagondanakere,Chitradurga,14.6,76.85,nature,0,all,1,3.8,32
+Chennakeshava Belur,Hassan,13.162,75.8596,heritage,50,all,1,4.9,98
+Hoysaleswara Halebidu,Hassan,13.213,75.995,heritage,50,all,1,4.9,96
+Shravanabelagola,Hassan,12.857,76.486,temple,0,all,1,4.9,95
+Shettihalli Church,Hassan,12.975,76.045,heritage,0,winter,1,4.7,88
+Manjarabad Fort,Hassan,12.924,75.787,adventure,0,winter,1,4.6,85
+Bisle Ghat,Hassan,12.71,75.68,nature,0,monsoon,1,4.8,90
+Green Route Trek,Hassan,12.94,75.78,adventure,0,winter,1,4.7,82
+Gorur Dam,Hassan,12.88,76.05,nature,0,monsoon,1,4.5,78
+Lakshmi Devi Temple,Hassan,13.11,75.98,heritage,0,all,1,4.6,72
+Jain Math,Hassan,12.858,76.487,temple,0,all,1,4.5,80
+Kedareshwara Temple,Hassan,13.212,75.997,heritage,0,all,1,4.4,68
+Ishwara Temple,Hassan,13.31,76.26,temple,0,all,1,4.5,65
+Koravangala Temple,Hassan,13.06,76.17,heritage,0,all,1,4.4,62
+Mallalli Falls,Hassan,12.656,75.683,nature,0,monsoon,1,4.5,70
+Gomateshwara Statue,Hassan,12.856,76.485,heritage,0,all,1,4.9,94
+Hasanamba Temple,Hassan,13,76.1,temple,0,all,1,4.7,85
+Mullaiahnagiri side,Hassan,13.38,75.71,nature,0,winter,1,4.3,60
+Mookanamane Falls,Hassan,12.85,75.75,nature,0,monsoon,1,4.2,55
+Magajahalli Falls,Hassan,12.95,75.7,nature,0,monsoon,1,4.1,58
+Agni Gudda Hill,Hassan,12.92,75.75,adventure,0,winter,1,4.3,65
+Yediyur Siddhalingeshwara,Hassan,12.97,76.89,temple,0,all,1,4.6,75
+Belur Golf Course,Hassan,13.16,75.85,nature,100,all,1,3.9,40
+Mosale Temples,Hassan,12.92,76.17,heritage,0,all,1,4.2,48
+Chandragiri Hill,Hassan,12.85,76.49,heritage,0,all,1,4.4,62
+Vindhyagiri Hill,Hassan,12.855,76.485,adventure,0,all,1,4.5,70
+Belgaum Fort,Belagavi,15.858,74.524,heritage,0,all,1,4.5,80
+Gokak Falls,Belagavi,16.175,74.83,nature,0,monsoon,1,4.7,92
+Godchinamalaki Falls,Belagavi,16.115,74.825,nature,0,monsoon,1,4.4,75
+Kamal Basadi,Belagavi,15.857,74.523,temple,0,all,1,4.6,72
+Ramakrishna Mission,Belagavi,15.859,74.525,temple,0,all,1,4.7,78
+Kapileshwar Temple,Belagavi,15.845,74.51,temple,0,all,1,4.5,70
+Military Mahadeva,Belagavi,15.86,74.5,temple,0,all,1,4.6,82
+Kittur Fort,Belagavi,15.6,74.79,heritage,20,all,1,4.4,75
+Sunda Waterfalls,Belagavi,15.7,74.3,nature,0,monsoon,1,4.1,50
+Navilatirtha Dam,Belagavi,15.83,75.12,nature,0,monsoon,1,4.2,65
+Yellamma Saundatti,Belagavi,15.77,75.11,temple,0,all,1,4.8,90
+Siddeshwar Temple,Belagavi,15.85,74.52,temple,0,all,1,4.3,55
+Rajhansgad Fort,Belagavi,15.75,74.53,heritage,0,winter,1,4.4,68
+Safa Masjid,Belagavi,15.8585,74.5235,heritage,0,all,1,4.2,50
+St. Mary's Church,Belagavi,15.85,74.515,temple,0,all,1,4.3,52
+Hidkal Dam,Belagavi,16.14,74.64,nature,0,monsoon,1,4.2,70
+Vajrapoha Falls,Belagavi,15.65,74.25,nature,0,monsoon,1,4.5,60
+Jamboti Hills,Belagavi,15.68,74.36,nature,0,winter,1,4.4,62
+Rakaskop Dam,Belagavi,15.83,74.4,nature,0,monsoon,1,4.1,58
+Kudalasangama side,Belagavi,16.2,75,temple,0,all,1,4,45
+Parasgad Fort,Belagavi,15.76,75.12,heritage,0,all,1,4.2,55
+Aramane Waterfalls,Belagavi,15.8,74.45,nature,0,monsoon,1,4,42
+Tillari Ghat,Belagavi,15.78,74.15,nature,0,monsoon,1,4.6,80
+Asoga Riverside,Belagavi,15.65,74.5,nature,0,all,1,4.1,48
+Sogal Falls,Belagavi,15.8,74.95,nature,0,monsoon,1,4.2,55
+Tungabhadra Dam,Ballari,15.25,76.33,nature,50,monsoon,1,4.5,92
+Ballari Fort,Ballari,15.15,76.92,heritage,0,winter,1,4.4,85
+Kumbara Gudda,Ballari,15.14,76.91,nature,0,all,1,4.1,60
+Bellary Zoo,Ballari,15.16,76.93,nature,50,all,1,3.8,55
+Mincheri Nature Camp,Ballari,15.1,76.95,adventure,500,winter,1,4.2,65
+Bommaghatta Temple,Ballari,14.95,76.85,temple,0,all,1,4.3,58
+Krauncha Giri,Ballari,15.08,76.65,temple,0,all,1,4.6,72
+Donimalai Hill Station,Ballari,15.05,76.62,nature,0,winter,1,4.4,70
+Sandur Kushala Kala,Ballari,15.08,76.55,heritage,200,all,1,4.5,68
+Kumaraswamy Temple,Ballari,15.07,76.58,temple,0,all,1,4.7,82
+Narihalla Dam,Ballari,15.12,76.5,nature,0,monsoon,1,4.2,60
+Daroji Bear Sanctuary,Ballari,15.26,76.67,nature,300,winter,1,4.6,88
+Hampi area,Ballari,15.33,76.46,heritage,50,winter,1,4.9,98
+Jindal Vidyanagar,Ballari,15.18,76.68,nature,0,all,1,4.3,75
+Kaladham Museum,Ballari,15.19,76.69,heritage,100,all,1,4.4,62
+Moka Hill,Ballari,15.25,77.05,adventure,0,winter,1,4,45
+Mallara Temple,Ballari,14.85,75.95,temple,0,all,1,4.2,50
+Ujjini Marulasiddeshwara,Ballari,14.72,76.15,temple,0,all,1,4.5,64
+Siruguppa Riverside,Ballari,15.62,76.9,nature,0,monsoon,1,3.9,48
+Kalyana Lakshmi Temple,Ballari,15.155,76.925,temple,0,all,1,4.1,42
+Hagari River Bank,Ballari,15.18,77.1,nature,0,monsoon,1,3.7,35
+Sanganakallu Site,Ballari,15.18,76.97,heritage,0,all,1,4.3,55
+Kanakachalapathi Temple,Ballari,15.45,76.48,temple,0,all,1,4.4,60
+Ramanadurga Fort,Ballari,15.13,76.45,heritage,0,winter,1,4.1,52
+Kudligi Monuments,Ballari,14.9,76.38,heritage,0,all,1,3.8,40
+MM Hills,Chamarajanagar,12.03,77.58,temple,0,all,2,4.8,94
+Bandipur Park,Chamarajanagar,11.66,76.62,nature,300,winter,2,4.9,97
+BR Hills,Chamarajanagar,11.99,77.14,nature,100,winter,1,4.7,92
+Gopalaswamy Betta,Chamarajanagar,11.72,76.59,nature,50,all,1,4.8,95
+Shivanasamudra Falls,Chamarajanagar,12.29,77.16,nature,50,monsoon,1,4.9,98
+Hogenakkal Falls,Chamarajanagar,12.12,77.77,nature,100,monsoon,1,4.6,85
+Suvarnavathi Dam,Chamarajanagar,11.91,76.98,nature,0,monsoon,1,4.2,65
+Gundlupet Flower Fields,Chamarajanagar,11.81,76.68,nature,0,summer,1,4.5,88
+Chamarajeshwara Temple,Chamarajanagar,11.92,76.94,temple,0,all,1,4.4,78
+Kanakagiri Hill,Chamarajanagar,11.88,76.95,temple,0,all,1,4.3,62
+Sathegala Falls,Chamarajanagar,12.31,77.15,nature,0,monsoon,1,4.1,55
+Gaganachukki Falls,Chamarajanagar,12.295,77.165,nature,0,monsoon,1,4.8,94
+Bara Chukki Falls,Chamarajanagar,12.292,77.17,nature,0,monsoon,1,4.8,94
+Dodda Sampige Mara,Chamarajanagar,11.95,77.12,nature,0,all,1,4.5,70
+KGudi Camp,Chamarajanagar,11.98,77.13,adventure,500,winter,1,4.7,82
+Nugu Dam,Chamarajanagar,11.85,76.52,nature,0,monsoon,1,4.2,58
+Triyambakeshwara Temple,Chamarajanagar,11.75,76.7,temple,0,all,1,4.3,50
+Terakanambi Heritage,Chamarajanagar,11.8,76.78,heritage,0,all,1,4,45
+Kalyani Hills,Chamarajanagar,12.035,77.585,heritage,0,all,1,4.2,60
+Gundal Dam,Chamarajanagar,11.95,77.05,nature,0,monsoon,1,4,52
+Palar River Rafting,Chamarajanagar,12.15,77.8,adventure,1000,monsoon,1,4.4,65
+Bedaguli Hill,Chamarajanagar,11.9,77.1,nature,0,winter,1,4.3,58
+Kabini South,Chamarajanagar,11.92,76.45,nature,500,winter,1,4.8,90
+Silk Center,Chamarajanagar,11.925,76.945,heritage,100,all,1,4.1,55
+Dzogchen Monastery,Chamarajanagar,12.15,77.1,temple,0,all,1,4.6,72
+Savandurga Hill,Ramanagara,12.92,77.3,adventure,0,winter,1,4.7,92
+Ramadevara Betta,Ramanagara,12.75,77.28,adventure,50,winter,1,4.8,95
+Janapada Loka,Ramanagara,12.72,77.25,heritage,100,all,1,4.6,88
+Manchanabele Dam,Ramanagara,12.87,77.33,nature,0,monsoon,1,4.4,85
+Kanva Reservoir,Ramanagara,12.63,77.18,nature,0,monsoon,1,4.3,78
+Channapatna Toy Factories,Ramanagara,12.65,77.2,heritage,200,all,1,4.5,90
+Mekedatu,Ramanagara,12.26,77.44,adventure,0,winter,1,4.8,94
+Sangama,Ramanagara,12.27,77.44,nature,50,all,1,4.7,92
+Chunchi Falls,Ramanagara,12.35,77.45,nature,50,monsoon,1,4.6,88
+Big Banyan Tree,Ramanagara,12.92,77.39,nature,0,all,1,4.5,82
+Wonderla Park,Ramanagara,12.83,77.4,adventure,1800,summer,1,4.8,96
+Narayanappa Lake,Ramanagara,12.73,77.27,nature,0,all,1,3.9,45
+Arkavathi Trek,Ramanagara,12.85,77.35,adventure,0,winter,1,4.2,60
+Innovative Film City,Ramanagara,12.78,77.42,heritage,800,summer,1,4.1,80
+Kengal Anjaneya Temple,Ramanagara,12.68,77.22,temple,0,all,1,4.4,72
+Magadi Fort,Ramanagara,12.95,77.23,heritage,0,winter,1,4.1,55
+Ranganathaswamy Magadi,Ramanagara,12.96,77.22,temple,0,all,1,4.3,62
+Handigundi Trek,Ramanagara,12.74,77.3,adventure,0,winter,1,4,50
+Revana Siddeshwara,Ramanagara,12.65,77.25,adventure,0,winter,1,4.5,75
+Thippagondanahalli Dam,Ramanagara,12.96,77.35,nature,0,monsoon,1,4.2,68
+Kudura Gundi Falls,Ramanagara,12.38,77.46,nature,0,monsoon,1,3.8,40
+Kabbaladurga Fort,Ramanagara,12.5,77.3,adventure,0,winter,1,4.6,72
+Silk Cocoon Market,Ramanagara,12.72,77.28,heritage,0,all,1,4.2,65
+Kutagal Hill,Ramanagara,12.78,77.2,adventure,0,winter,1,4.1,48
+Someshwara Magadi,Ramanagara,12.955,77.235,temple,0,all,1,4.2,52
+Murudeshwar Temple,Uttara Kannada,14.09,74.48,temple,0,all,1,4.9,98
+Om Beach,Uttara Kannada,14.51,74.32,beach,0,winter,1,4.8,96
+Dandeli Rafting,Uttara Kannada,15.24,74.62,adventure,1500,summer,1,4.9,92
+Yana Rocks,Uttara Kannada,14.59,74.56,adventure,0,winter,1,4.7,88
+Jog Falls west,Uttara Kannada,14.22,74.8,nature,50,monsoon,1,4.9,97
+Warship Museum,Uttara Kannada,14.81,74.12,heritage,50,all,1,4.6,85
+Mirjan Fort,Uttara Kannada,14.48,74.41,heritage,0,winter,1,4.5,82
+Sathodi Falls,Uttara Kannada,14.93,74.87,nature,0,monsoon,1,4.7,80
+Unchalli Falls,Uttara Kannada,14.41,74.75,nature,0,monsoon,1,4.6,78
+Vibhuti Falls,Uttara Kannada,14.58,74.63,nature,0,monsoon,1,4.5,84
+Banavasi Temple,Uttara Kannada,14.53,75.01,heritage,0,all,1,4.8,75
+Anshi Park,Uttara Kannada,15.01,74.38,nature,200,winter,1,4.4,70
+Magod Falls,Uttara Kannada,14.85,74.76,nature,0,monsoon,1,4.5,72
+Kavala Caves,Uttara Kannada,15.14,74.35,adventure,100,winter,1,4.3,65
+Syntheri Rocks,Uttara Kannada,15.28,74.58,nature,50,winter,1,4.4,74
+Sahasralinga,Uttara Kannada,14.61,74.89,temple,0,winter,1,4.6,80
+Apsarakonda Beach,Uttara Kannada,14.26,74.43,beach,0,winter,1,4.5,78
+Karwar Beach,Uttara Kannada,14.8,74.11,beach,0,winter,1,4.4,85
+Kudle Beach,Uttara Kannada,14.52,74.31,beach,0,winter,1,4.7,90
+Half Moon Beach,Uttara Kannada,14.515,74.33,beach,0,winter,1,4.6,82
+Paradise Beach,Uttara Kannada,14.505,74.34,beach,0,winter,1,4.7,85
+Marikamba Temple,Uttara Kannada,14.62,74.84,temple,0,all,1,4.8,88
+Idagunji Ganapathi,Uttara Kannada,14.3,74.48,temple,0,all,1,4.7,85
+Ulavi Temple,Uttara Kannada,15.015,74.51,temple,0,all,1,4.5,68
+Sodhe Matha,Uttara Kannada,14.63,74.82,temple,0,all,1,4.4,62
+Nandi Hills,Chikkaballapur,13.37,77.68,nature,100,winter,1,4.8,98
+Bhoga Nandeeshwara,Chikkaballapur,13.38,77.7,heritage,0,all,1,4.9,92
+Skandagiri Trek,Chikkaballapur,13.41,77.68,adventure,250,winter,1,4.7,90
+Muddenahalli,Chikkaballapur,13.43,77.71,heritage,50,all,1,4.6,80
+Gudibande Fort,Chikkaballapur,13.68,77.67,adventure,0,winter,1,4.5,78
+Avalabetta Peak,Chikkaballapur,13.57,77.67,nature,0,winter,1,4.6,85
+Vidurashwatha,Chikkaballapur,13.65,77.47,heritage,0,all,1,4.3,65
+Kaiwara,Chikkaballapur,13.35,78.01,temple,0,all,1,4.4,72
+Chintamani Temple,Chikkaballapur,13.4,78.06,temple,0,all,1,4.2,55
+Kaurava Kunda,Chikkaballapur,13.46,77.72,adventure,0,winter,1,4.1,50
+Srinivasa Sagara,Chikkaballapur,13.43,77.73,nature,0,monsoon,1,4,52
+Ghati Subramanya,Chikkaballapur,13.41,77.51,temple,0,all,1,4.7,88
+Rangadhama Temple,Chikkaballapur,13.42,78.08,temple,0,all,1,4.1,45
+Kailasagiri Cave,Chikkaballapur,13.425,78.085,temple,0,all,1,4.2,58
+Jaramadagu Falls,Chikkaballapur,13.61,77.78,nature,0,monsoon,1,3.8,42
+Chennakeshava Betta,Chikkaballapur,13.415,77.75,nature,0,winter,1,4,40
+Gummanayaka Fort,Chikkaballapur,13.78,77.85,heritage,0,winter,1,3.9,38
+Sir MV Memorial,Chikkaballapur,13.435,77.715,heritage,50,all,1,4.6,75
+Vivekananda Falls,Chikkaballapur,13.45,77.75,nature,0,monsoon,1,3.7,35
+Harihara Hill,Chikkaballapur,13.44,77.76,adventure,0,winter,1,3.9,48
+Yoga Nandeeshwara,Chikkaballapur,13.375,77.685,temple,0,all,1,4.5,82
+Amrita Sarovar,Chikkaballapur,13.372,77.682,nature,0,winter,1,4.3,70
+Tipu Drop,Chikkaballapur,13.371,77.684,heritage,0,winter,1,4.4,88
+Narasimha Swamy,Chikkaballapur,13.45,77.69,temple,0,all,1,4.1,50
+Kalavara Durga,Chikkaballapur,13.415,77.685,adventure,0,winter,1,4.3,65
+Anthargange Trek,Kolar,13.14,78.12,adventure,0,winter,1,4.6,88
+Kolar Amman Temple,Kolar,13.13,78.13,temple,0,all,1,4.5,80
+Someshwara Temple,Kolar,13.135,78.135,heritage,0,all,1,4.7,85
+Kotilingeshwara Temple,Kolar,13.01,78.29,temple,20,all,1,4.8,95
+Kurudumale Ganesha,Kolar,13.18,78.36,temple,0,all,1,4.6,78
+Bangaru Tirupati,Kolar,12.98,78.35,temple,0,all,1,4.4,72
+Bethamangala Lake,Kolar,12.99,78.33,nature,0,monsoon,1,4.1,55
+Avani Betta,Kolar,13.12,78.32,adventure,0,winter,1,4.3,68
+Sita Temple Avani,Kolar,13.125,78.325,temple,0,all,1,4.5,70
+KGF Ruins,Kolar,12.95,78.27,heritage,0,all,1,4.4,90
+Markandeya Hill,Kolar,13,78.15,nature,0,winter,1,4,52
+Mulbagal Temple,Kolar,13.16,78.39,temple,0,all,1,4.3,60
+Mulbagal Fort,Kolar,13.165,78.395,heritage,0,all,1,3.8,45
+Budikote Heritage,Kolar,12.92,78.15,heritage,0,all,1,4.1,58
+Chikka Tirupati,Kolar,12.9,77.85,temple,0,all,1,4.6,85
+Ramasagara Lake,Kolar,13.1,78.4,nature,0,monsoon,1,3.9,42
+Vokkaleri Hill,Kolar,13.05,78.1,adventure,0,winter,1,4,40
+Thondebhavi Dam,Kolar,13.5,77.55,nature,0,monsoon,1,3.7,35
+Kolar Caves,Kolar,13.145,78.125,adventure,0,winter,1,4.4,75
+Garudachar Temple,Kolar,13.1,78.15,temple,0,all,1,4.2,48
+Kaivara Tatayya,Kolar,13.35,78.01,temple,0,all,1,4.5,70
+Palar River Origin,Kolar,13.35,77.95,nature,0,monsoon,1,3.8,30
+Kolar Fort Walls,Kolar,13.132,78.132,heritage,0,all,1,3.9,42
+Tipu Wall Kolar,Kolar,13.135,78.13,heritage,0,all,1,3.7,35
+Boodikote Dam,Kolar,12.91,78.14,nature,0,monsoon,1,4,45
+Sravanabelagola side,Tumakuru,12.85,76.48,temple,0,all,1,4.9,94
+Devarayanadurga Hill,Tumakuru,13.37,77.21,nature,0,winter,1,4.7,90
+Yoga Narasimha,Tumakuru,13.375,77.215,temple,0,all,1,4.6,88
+Namada Chilume,Tumakuru,13.35,77.18,nature,50,all,1,4.4,82
+Siddaganga Matha,Tumakuru,13.32,77.12,temple,0,all,1,4.8,96
+Madhugiri Monolith,Tumakuru,13.66,77.21,adventure,0,winter,1,4.7,85
+Pavagada Fort,Tumakuru,14.1,77.27,heritage,0,winter,1,4.2,60
+Channarayana Durga,Tumakuru,13.52,77.18,adventure,0,winter,1,4.4,65
+Marconahalli Dam,Tumakuru,12.95,76.88,nature,0,monsoon,1,4.3,72
+Yediyur Siddhalingeshwara,Tumakuru,12.97,76.89,temple,0,all,1,4.8,92
+Kaidala Temple,Tumakuru,13.3,77.05,heritage,0,all,1,4.6,78
+Gulur Ganesha,Tumakuru,13.3,77.08,temple,0,all,1,4.4,62
+Seebi Narasimha,Tumakuru,13.53,76.95,heritage,0,all,1,4.5,65
+Jayamangali Reserve,Tumakuru,13.78,77.35,nature,200,winter,1,4.3,70
+Nittur Jain Temple,Tumakuru,13.35,76.85,temple,0,all,1,4.1,45
+Kortagere Hill,Tumakuru,13.52,77.24,adventure,0,winter,1,4,48
+Aralaguppe Temple,Tumakuru,13.25,76.58,heritage,0,all,1,4.5,58
+Amanikere Lake,Tumakuru,13.33,77.1,nature,0,all,1,4.1,65
+Turuvekere Temples,Tumakuru,13.16,76.67,heritage,0,all,1,4.3,55
+Borana Kanive Dam,Tumakuru,13.48,76.55,nature,0,monsoon,1,4,50
+Chikkanayakanahalli Fort,Tumakuru,13.41,76.62,heritage,0,all,1,3.8,42
+Mandaragiri Temple,Tumakuru,13.24,77.18,temple,0,all,1,4.7,88
+Maidala Lake,Tumakuru,13.38,77.15,nature,0,winter,1,4.2,52
+Kunigal Stud Farm,Tumakuru,13.02,77.03,heritage,100,all,1,4.3,60
+Huliyurdurga Fort,Tumakuru,12.85,77.03,adventure,0,winter,1,4.1,48
+Davanagere Bathi Hill,Davanagere,14.5,75.92,nature,0,winter,1,4.2,70
+Kondajji Lake,Davanagere,14.52,75.85,nature,0,all,1,4.1,62
+Harihareshwara Harihar,Davanagere,14.51,75.8,temple,0,all,1,4.7,88
+Santhibennur Pushkarini,Davanagere,14.15,75.98,heritage,0,all,1,4.5,75
+Shamanuru Temple,Davanagere,14.48,75.93,temple,0,all,1,4.4,65
+Kudalasangama Davanagere,Davanagere,14.6,75.85,temple,0,all,1,4.3,58
+Shanti Sagara Lake,Davanagere,14.16,75.88,nature,0,monsoon,1,4.6,85
+Channagiri Fort,Davanagere,14.02,75.93,heritage,0,winter,1,4.3,68
+Kunduvada Kere,Davanagere,14.45,75.9,nature,0,all,1,4.2,72
+Glass House,Davanagere,14.47,75.94,nature,50,all,1,4.4,80
+Anekonda Heritage,Davanagere,14.46,75.91,heritage,0,all,1,4,52
+Uchangidurga Fort,Davanagere,14.71,76.02,heritage,0,winter,1,4.3,64
+Eshwara Nilagunda,Davanagere,14.75,75.9,heritage,0,all,1,4.2,50
+Bathi Gudda Trek,Davanagere,14.505,75.925,adventure,0,winter,1,4.1,55
+Anjaneya Shamanur,Davanagere,14.485,75.935,temple,0,all,1,4.4,60
+Ugranarasimha Temple,Davanagere,14.46,75.92,temple,0,all,1,4.1,48
+Honnalli Sangama,Davanagere,14.24,75.64,nature,0,all,1,4.3,62
+Tungabhadra Bank,Davanagere,14.52,75.78,nature,0,monsoon,1,4.2,65
+Duggamma Temple,Davanagere,14.465,75.92,temple,0,all,1,4.5,75
+Bagali Kalleswara,Davanagere,14.78,75.95,heritage,0,all,1,4.4,52
+Murugharajendra Matha,Davanagere,14.47,75.93,temple,0,all,1,4.3,58
+Jain Temple Davanagere,Davanagere,14.46,75.9,temple,0,all,1,4,40
+Lingeshwara Temple,Davanagere,14.44,75.91,temple,0,all,1,3.9,35
+Vinayaka Temple,Davanagere,14.48,75.95,temple,0,all,1,4.1,42
+Benne Dosa Hub,Davanagere,14.467,75.922,heritage,200,all,1,4.8,95
+Haveri Museum,Haveri,14.7932,75.405,heritage,20,all,1,4.2,65
+Siddheshwara Temple,Haveri,14.79,75.397,heritage,0,all,1,4.7,82
+Galaganatha Temple,Haveri,14.92,75.72,heritage,0,all,1,4.5,70
+Kaginele Peetha,Haveri,14.85,75.45,temple,0,all,1,4.6,88
+Peacock Sanctuary,Haveri,14.91,75.26,nature,50,winter,1,4.4,75
+Bankapura Fort,Haveri,14.912,75.265,heritage,0,all,1,4.1,60
+Tarakeshwara Hangal,Haveri,14.76,75.12,heritage,0,all,1,4.8,85
+Hangal Fort Walls,Haveri,14.762,75.125,heritage,0,all,1,3.9,40
+Utsav Rock Garden,Haveri,15.15,75.33,nature,200,all,1,4.5,92
+Kadambeshwar Temple,Haveri,14.65,75.1,temple,0,all,1,4.2,52
+Ranebennur Sanctuary,Haveri,14.62,75.63,nature,100,winter,1,4.5,80
+Mallari Temple,Haveri,14.7,75.6,temple,0,all,1,4.3,62
+Savanur Palace,Haveri,14.96,75.34,heritage,0,all,1,4,55
+Savanur Baobab Trees,Haveri,14.965,75.345,nature,0,all,1,4.4,68
+Siddharoodha Matha Haveri,Haveri,14.8,75.41,temple,0,all,1,4.1,50
+Tungabhadra River,Haveri,14.9,75.75,nature,0,monsoon,1,4.2,58
+Choudayyadanapura,Haveri,14.85,75.78,heritage,0,all,1,4.6,72
+Nagareshwar Bankapura,Haveri,14.915,75.262,temple,0,all,1,4.4,55
+Bilikallu Gudda,Haveri,14.6,75.5,adventure,0,winter,1,4,45
+Hirekerur Lake,Haveri,14.47,75.39,nature,0,monsoon,1,4.1,52
+Madaga Masur Dam,Haveri,14.4,75.45,nature,0,monsoon,1,4.2,60
+Devihosur Center,Haveri,14.75,75.35,nature,0,all,1,3.8,40
+Kumareshwar Matha,Haveri,14.92,75.35,temple,0,all,1,4.3,55
+Shishunala Sharif,Haveri,15.05,75.38,heritage,0,all,1,4.5,70
+Byadgi Chili Market,Haveri,14.68,75.48,heritage,0,all,1,4.2,85
+Chandramouleshwara,Dharwad,15.44,75.02,heritage,0,all,1,4.6,78
+Unkal Lake,Dharwad,15.38,75.12,nature,20,all,1,4.4,85
+Nrupatunga Hill,Dharwad,15.36,75.1,nature,10,all,1,4.5,82
+Siddharoodha Matha,Dharwad,15.34,75.16,temple,0,all,1,4.8,92
+Glass House,Dharwad,15.35,75.14,nature,30,all,1,4.3,80
+Banashankari Amargol,Dharwad,15.4,75.08,heritage,0,all,1,4.5,65
+Navalgund Hill,Dharwad,15.55,75.36,nature,0,winter,1,4,50
+Agadi Thota,Dharwad,15.22,75.18,nature,600,winter,1,4.6,78
+Adventure Base,Dharwad,15.45,74.95,adventure,1200,all,1,4.4,70
+University Museum,Dharwad,15.44,74.98,heritage,20,all,1,4.1,55
+Sadhankeri Park,Dharwad,15.46,74.99,nature,0,all,1,4.2,62
+Bendre Bhavan,Dharwad,15.465,74.995,heritage,0,all,1,4.5,60
+Kelageri Lake,Dharwad,15.45,74.97,nature,0,monsoon,1,4.3,58
+Someshwara Dharwad,Dharwad,15.43,75.01,temple,0,all,1,4.2,50
+Moorusavira Matha,Dharwad,15.35,75.13,temple,0,all,1,4.6,75
+Iskcon Hubli,Dharwad,15.41,75.06,temple,0,all,1,4.8,90
+Utsav Garden,Dharwad,15.15,75.33,nature,200,all,1,4.5,88
+Railway Museum Hubli,Dharwad,15.345,75.15,heritage,50,all,1,4.4,72
+Urban Oasis Mall,Dharwad,15.36,75.13,heritage,1000,all,1,4.3,85
+Bund Garden,Dharwad,15.455,75.01,nature,0,all,1,3.8,42
+Tapovan,Dharwad,15.42,74.99,temple,0,all,1,4.5,65
+Kalabhavan,Dharwad,15.458,75.008,heritage,0,all,1,4,50
+Tolankere Lake,Dharwad,15.37,75.14,nature,0,all,1,4.1,60
+Sanmati Hill,Dharwad,15.47,74.95,temple,0,all,1,4.2,45
+Dharwad Fort,Dharwad,15.458,75.005,heritage,0,all,1,3.7,35
+Trikuteshwara Temple,Gadag,15.42,75.63,heritage,0,all,1,4.8,88
+Veeranarayana Temple,Gadag,15.425,75.625,heritage,0,all,1,4.7,85
+Lakkundi Temples,Gadag,15.38,75.71,heritage,20,all,1,4.9,92
+Brahma Jinalaya,Gadag,15.382,75.712,heritage,0,all,1,4.6,75
+Kashivishvanatha,Gadag,15.381,75.711,heritage,0,all,1,4.5,72
+Magadi Sanctuary,Gadag,15.22,75.52,nature,50,winter,1,4.4,78
+Bhishmapura Lake,Gadag,15.41,75.64,nature,0,all,1,4.1,60
+Kappa Gudda Hill,Gadag,15.3,75.7,nature,0,winter,1,4.3,65
+Dambal Temple,Gadag,15.3,75.78,heritage,0,all,1,4.7,80
+Sudi Mallikarjuna,Gadag,15.73,75.85,heritage,0,all,1,4.5,62
+Gajendragad Fort,Gadag,15.73,75.97,heritage,0,winter,1,4.2,68
+Kalkaleshwara Temple,Gadag,15.735,75.975,temple,0,all,1,4.4,70
+Singatalur Dam,Gadag,15.18,75.85,nature,0,monsoon,1,4.1,55
+Puttaraj Gawai Ashram,Gadag,15.43,75.63,heritage,0,all,1,4.6,82
+Saraswati Temple,Gadag,15.421,75.631,temple,0,all,1,4.3,58
+Someshwara Laxmeshwar,Gadag,15.12,75.47,heritage,0,all,1,4.7,75
+Jain Basadi Laxmeshwar,Gadag,15.125,75.475,temple,0,all,1,4.4,65
+Naregal Temples,Gadag,15.58,75.81,heritage,0,all,1,4.2,52
+Ron Anantashayana,Gadag,15.7,75.73,heritage,0,all,1,4.3,55
+Itagi Mahadeva side,Gadag,15.45,75.95,heritage,0,all,1,4.9,90
+Narayanpura Dam side,Gadag,16.15,76.25,nature,0,monsoon,1,4,48
+Binkadakatti Zoo,Gadag,15.45,75.58,nature,50,all,1,4.2,74
+Suryanarayana Lakkundi,Gadag,15.383,75.715,temple,0,all,1,4.4,55
+Mulkery Temple,Gadag,15.415,75.635,temple,0,all,1,4.1,45
+Gadag Windmills,Gadag,15.4,75.7,nature,0,all,1,4.3,65
+Gulbarga Fort,Kalaburagi,17.34,76.83,heritage,0,all,1,4.6,88
+Jumma Masjid Gulbarga,Kalaburagi,17.342,76.832,heritage,0,all,1,4.5,82
+Haft Gumbaz,Kalaburagi,17.32,76.85,heritage,0,winter,1,4.4,75
+Banda Nawaz Dargah,Kalaburagi,17.33,76.85,heritage,0,all,1,4.8,95
+Buddha Vihara,Kalaburagi,17.38,76.85,temple,0,all,1,4.9,94
+Sharana Basaveshwara,Kalaburagi,17.32,76.83,temple,0,all,1,4.7,92
+Chandrampalli Dam,Kalaburagi,17.45,77.35,nature,0,monsoon,1,4.3,70
+Ghangapur Temple,Kalaburagi,17.18,76.38,temple,0,all,1,4.9,96
+Sannati Edicts,Kalaburagi,16.82,76.9,heritage,0,all,1,4.6,72
+Chandralamba Temple,Kalaburagi,16.825,76.905,temple,0,all,1,4.5,68
+Khoroti Waterfalls,Kalaburagi,17.5,77.2,nature,0,monsoon,1,4.1,52
+Malkhed Fort,Kalaburagi,17.2,77.15,heritage,0,all,1,4.4,65
+Uttaradi Matha Malkhed,Kalaburagi,17.205,77.155,temple,0,all,1,4.5,62
+Nagai Temples,Kalaburagi,17.05,77.02,heritage,0,all,1,4.2,50
+Jevargi Sangama,Kalaburagi,17.02,76.77,nature,0,all,1,4,55
+Sri Kshetra Ghangapur,Kalaburagi,17.185,76.385,temple,0,all,1,4.8,93
+Appa Lake,Kalaburagi,17.31,76.82,nature,0,all,1,3.9,48
+ESI Medical College,Kalaburagi,17.35,76.81,heritage,0,all,1,4,60
+Afzalpur Sangama,Kalaburagi,17.2,76.35,nature,0,monsoon,1,4.1,45
+Sedam Fort,Kalaburagi,17.18,77.28,heritage,0,all,1,3.8,40
+Laxmi Temple Sedam,Kalaburagi,17.182,77.282,temple,0,all,1,4.1,42
+Firozabad Fort,Kalaburagi,17.15,76.85,heritage,0,all,1,4.2,55
+Martur Fort,Kalaburagi,17.22,76.92,heritage,0,all,1,4,48
+Bhimarayanagudi,Kalaburagi,16.72,76.78,nature,0,all,1,3.9,35
+Shakti Nagar Park,Kalaburagi,17.35,76.85,nature,0,all,1,3.5,30
+Raichur Fort,Raichur,16.21,77.36,heritage,0,all,1,4.5,80
+Ek Minar Masjid,Raichur,16.212,77.358,heritage,0,all,1,4.2,65
+Thermal Power Station,Raichur,16.35,77.35,heritage,0,all,1,3.8,55
+Mantralayam side,Raichur,15.94,77.42,temple,0,all,1,4.9,98
+Deosugur Temple,Raichur,16.25,77.4,temple,0,all,1,4.4,70
+Narayanpura Dam Raichur,Raichur,16.32,76.43,nature,50,monsoon,1,4.6,88
+Maski Inscription,Raichur,15.95,76.65,heritage,0,all,1,4.3,60
+Mudgal Fort,Raichur,16.01,76.43,heritage,0,all,1,4.4,68
+Jaldurg Fort,Raichur,16.25,76.45,heritage,0,all,1,4.1,50
+Hatti Gold Mines,Raichur,16.2,76.65,heritage,0,all,1,4,55
+Lingasugur Fort,Raichur,16.15,76.52,heritage,0,all,1,4.1,48
+Kallur Archeological,Raichur,16.2,77.2,heritage,0,all,1,3.9,42
+Panchamukhi Anjaneya,Raichur,15.95,77.4,temple,0,all,1,4.7,85
+Gabbur Temples,Raichur,16.23,76.85,heritage,0,all,1,4.3,58
+Amareshwara Temple,Raichur,16.3,77.3,temple,0,all,1,4.2,50
+Manvi Fort,Raichur,15.98,77.05,heritage,0,all,1,4,45
+Kalmala Hill,Raichur,16.18,77.25,nature,0,winter,1,3.8,38
+Sindhanur Paddy Fields,Raichur,15.78,76.76,nature,0,monsoon,1,4.1,65
+Krishna River Island,Raichur,16.22,77.45,nature,0,all,1,4.3,55
+Vichitrapura Fort,Raichur,16.25,77.38,heritage,0,all,1,3.7,30
+Kallur Temple,Raichur,16.15,77.12,temple,0,all,1,4.1,42
+Mallaradhya Matha,Raichur,16.21,77.365,temple,0,all,1,4,40
+Raichur Museum,Raichur,16.215,77.362,heritage,10,all,1,3.9,45
+Basavana Bhavi,Raichur,16.211,77.359,heritage,0,all,1,3.8,32
+Aam Talab Lake,Raichur,16.218,77.355,nature,0,all,1,3.6,50
+Anjanadri Hill,Koppal,15.34,76.48,temple,0,all,1,4.9,96
+Koppal Fort,Koppal,15.34,76.15,heritage,0,all,1,4.3,75
+Mahadeva Temple Itagi,Koppal,15.45,75.95,heritage,0,all,1,4.9,92
+Anegundi Fort,Koppal,15.35,76.49,heritage,0,all,1,4.6,88
+Pampa Sarovar,Koppal,15.36,76.47,temple,0,all,1,4.5,82
+Munirabad Dam,Koppal,15.31,76.34,nature,20,monsoon,1,4.5,90
+Huligemma Temple,Koppal,15.32,76.35,temple,0,all,1,4.7,85
+Kanakagiri Temple,Koppal,15.58,76.43,heritage,0,all,1,4.6,78
+Kuknur Navalinga,Koppal,15.48,75.98,heritage,0,all,1,4.5,70
+Tungabhadra Canal,Koppal,15.35,76.3,nature,0,monsoon,1,4.1,55
+Indrakeela Hill,Koppal,15.345,76.155,nature,0,winter,1,4.2,60
+Gavi Matha,Koppal,15.35,76.16,temple,0,all,1,4.6,82
+Anegundi Village,Koppal,15.348,76.485,heritage,0,all,1,4.7,85
+Chintamani Anegundi,Koppal,15.352,76.492,temple,0,all,1,4.4,68
+Siddheshwara Hill,Koppal,15.36,76.18,temple,0,all,1,4.2,50
+Nava Brindavana,Koppal,15.342,76.475,temple,0,all,1,4.7,78
+Jain Basadi Koppal,Koppal,15.335,76.152,temple,0,all,1,4.1,45
+Yelburga Temples,Koppal,15.6,76.01,heritage,0,all,1,4.2,52
+Kadebagilu Viewpoint,Koppal,15.33,76.45,nature,0,winter,1,4.3,62
+Sanapur Dam,Koppal,15.35,76.45,nature,0,monsoon,1,4.4,80
+Onake Kindi Caves,Koppal,15.365,76.475,heritage,0,all,1,4.5,65
+Bali Kila,Koppal,15.355,76.488,heritage,0,all,1,4.1,40
+Maliabad Fort Walls,Koppal,15.3,76.1,heritage,0,all,1,3.8,35
+Koppal Museum,Koppal,15.342,76.151,heritage,10,all,1,4,48
+Bikka Gudda,Koppal,15.32,76.25,adventure,0,winter,1,4.1,50
+Mailara Lingeshwara,Yadgir,16.55,77.1,temple,0,all,1,4.6,85
+Yadgir Fort,Yadgir,16.76,77.13,heritage,0,all,1,4.4,80
+Lumding Waterfall,Yadgir,16.65,77.25,nature,0,monsoon,1,4.1,55
+Narayanpur Dam Yadgir,Yadgir,16.32,76.43,nature,50,monsoon,1,4.5,90
+Shorapur Fort,Yadgir,16.52,76.75,heritage,0,all,1,4.3,68
+Venugopala Swamy,Yadgir,16.525,76.755,temple,0,all,1,4.4,62
+Bonal Bird Sanctuary,Yadgir,16.5,76.65,nature,0,winter,1,4.2,60
+Chaya Bhagavathi,Yadgir,16.35,76.45,temple,0,all,1,4.5,75
+Dhab Dabi Waterfalls,Yadgir,16.78,77.15,nature,0,monsoon,1,4.4,72
+Thinthini Mouneshwara,Yadgir,16.38,76.68,temple,0,all,1,4.6,82
+Gurmitkal Falls,Yadgir,16.85,77.38,nature,0,monsoon,1,4.1,58
+Shahapur Hill Trek,Yadgir,16.7,76.85,adventure,0,winter,1,4.2,65
+Wadi Junction,Yadgir,17.05,77.02,heritage,0,all,1,3.8,40
+Basavasagara Dam,Yadgir,16.325,76.435,nature,0,monsoon,1,4.4,85
+Taylor's Manzil,Yadgir,16.518,76.748,heritage,0,all,1,4.3,55
+Ganapathi Hill,Yadgir,16.765,77.135,temple,0,all,1,4.1,42
+Koduru Falls,Yadgir,16.42,77.2,nature,0,monsoon,1,4,38
+Krishna River Bank,Yadgir,16.3,76.5,nature,0,all,1,4.2,50
+Shorapur Palace,Yadgir,16.515,76.745,heritage,0,all,1,4.1,48
+Chandrampalli View,Yadgir,17,77.2,nature,0,monsoon,1,3.9,45
+Sagarkhed Fort,Yadgir,16.6,76.9,heritage,0,all,1,3.7,30
+Yadgir City Tank,Yadgir,16.77,77.14,nature,0,all,1,3.5,35
+Vanadurga Fort,Yadgir,16.68,76.95,heritage,0,all,1,4.1,52
+Kademani Falls,Yadgir,16.82,77.35,nature,0,monsoon,1,4,40
+Sleeping Buddha Hill,Yadgir,16.71,76.84,nature,0,winter,1,4.3,65
+Big Banyan Tree,Bengaluru Rural,12.92,77.39,nature,0,all,1,4.5,90
+Savandurga Rural side,Bengaluru Rural,12.922,77.295,adventure,0,winter,1,4.7,88
+Manchanabele Dam,Bengaluru Rural,12.87,77.33,nature,0,monsoon,1,4.4,82
+Shivagange Hill,Bengaluru Rural,13.17,77.22,adventure,0,winter,1,4.8,92
+Devarayanadurga border,Bengaluru Rural,13.37,77.21,nature,0,winter,1,4.6,85
+Ghati Subramanya,Bengaluru Rural,13.41,77.51,temple,0,all,1,4.7,94
+Makalidurga Trek,Bengaluru Rural,13.43,77.5,adventure,0,winter,1,4.5,80
+Nrityagram,Bengaluru Rural,13.16,77.46,heritage,100,all,1,4.6,85
+Hesaraghatta Grasslands,Bengaluru Rural,13.15,77.48,nature,0,winter,1,4.3,78
+Doddaballapur Temples,Bengaluru Rural,13.29,77.53,temple,0,all,1,4.1,55
+Vishwa Shanti Ashram,Bengaluru Rural,13.12,77.45,temple,0,all,1,4.4,65
+Devanahalli Fort,Bengaluru Rural,13.24,77.71,heritage,0,all,1,4.4,88
+Tipu Birthplace,Bengaluru Rural,13.242,77.712,heritage,0,all,1,4.2,75
+T G Halli Reservoir,Bengaluru Rural,12.96,77.35,nature,0,monsoon,1,4.2,68
+Siddhaganga side,Bengaluru Rural,13.32,77.12,temple,0,all,1,4.8,85
+Someshwara Magadi Rural,Bengaluru Rural,12.95,77.23,heritage,0,all,1,4.3,58
+Ranganathaswamy Temple Rural,Bengaluru Rural,12.96,77.22,temple,0,all,1,4.2,50
+Channarayapatna Rural,Bengaluru Rural,13.25,77.85,nature,0,all,1,3.8,35
+Kadur Lake side,Bengaluru Rural,13.1,77.4,nature,0,monsoon,1,3.9,40
+Muthyala Maduvu border,Bengaluru Rural,12.72,77.65,nature,50,monsoon,1,4.3,72
+T G Halli Dam,Bengaluru Rural,12.965,77.355,nature,0,monsoon,1,4.1,60
+Nelamangala Ashram,Bengaluru Rural,13.11,77.42,temple,0,all,1,4.3,58
+Boodigere Cross,Bengaluru Rural,13.18,77.8,nature,0,winter,1,3.7,30
+Vijayapura Rural,Bengaluru Rural,13.28,77.8,temple,0,all,1,3.8,32
+Nandi Valley View,Bengaluru Rural,13.36,77.67,nature,0,winter,1,4.5,88

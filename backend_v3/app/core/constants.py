@@ -1,0 +1,1 @@
+CATEGORY_LIST = ["adventure", "nature", "beach", "temple", "heritage"]

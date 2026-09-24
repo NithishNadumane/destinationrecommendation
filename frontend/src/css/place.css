@@ -1,0 +1,795 @@
+/* =========================================================
+   DISTRICT PAGE
+========================================================= */
+
+.district-page {
+  width: 100%;
+  min-height: 100vh;
+  background: #f8fafc;
+  padding-bottom: 70px;
+}
+
+
+/* =========================================================
+   DISTRICT HEADER
+========================================================= */
+
+.district-header {
+  width: 92%;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 45px 0 20px;
+}
+
+.district-heading {
+  background: linear-gradient(
+    135deg,
+    #eff6ff,
+    #ffffff
+  );
+
+  border-radius: 24px;
+
+  padding: 35px 40px;
+
+  border: 1px solid #e2e8f0;
+
+  box-shadow:
+    0 10px 30px rgba(15, 23, 42, 0.06);
+}
+
+.district-label,
+.section-label {
+  display: block;
+
+  font-size: 12px;
+
+  font-weight: 800;
+
+  letter-spacing: 1.5px;
+
+  color: #2563eb;
+
+  margin-bottom: 8px;
+}
+
+.district-heading h1 {
+  margin: 0;
+
+  font-size: 44px;
+
+  font-weight: 850;
+
+  color: #0f172a;
+}
+
+.district-heading p {
+  margin: 10px 0 0;
+
+  color: #64748b;
+
+  font-size: 16px;
+
+  line-height: 1.6;
+}
+
+
+/* =========================================================
+   DISTRICT INFORMATION
+========================================================= */
+
+.district-information {
+  width: 92%;
+
+  max-width: 1400px;
+
+  margin: 15px auto 50px;
+}
+
+.info-title {
+  display: flex;
+
+  align-items: center;
+
+  justify-content: space-between;
+
+  margin-bottom: 20px;
+}
+
+.info-title h2,
+.places-heading h2 {
+  margin: 0;
+
+  font-size: 28px;
+
+  color: #0f172a;
+
+  font-weight: 800;
+}
+
+
+/* =========================================================
+   WEATHER GRID
+========================================================= */
+
+.weather-grid {
+  display: grid;
+
+  grid-template-columns:
+    repeat(4, 1fr);
+
+  gap: 18px;
+
+  margin-bottom: 20px;
+}
+
+.weather-card {
+  background: white;
+
+  border-radius: 18px;
+
+  padding: 20px;
+
+  display: flex;
+
+  align-items: center;
+
+  gap: 15px;
+
+  border: 1px solid #e2e8f0;
+
+  box-shadow:
+    0 8px 25px rgba(15, 23, 42, 0.06);
+
+  transition: 0.3s ease;
+}
+
+.weather-card:hover {
+  transform: translateY(-4px);
+
+  box-shadow:
+    0 15px 35px rgba(15, 23, 42, 0.10);
+}
+
+
+/* =========================================================
+   WEATHER ICONS
+========================================================= */
+
+.weather-icon {
+  width: 52px;
+
+  height: 52px;
+
+  border-radius: 15px;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  font-size: 25px;
+
+  flex-shrink: 0;
+}
+
+.temperature-icon {
+  background: #fff1f2;
+}
+
+.humidity-icon {
+  background: #eff6ff;
+}
+
+.rain-icon {
+  background: #eef2ff;
+}
+
+.wind-icon {
+  background: #f0fdf4;
+}
+
+
+/* =========================================================
+   WEATHER TEXT
+========================================================= */
+
+.weather-content {
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 4px;
+}
+
+.weather-content span {
+  color: #64748b;
+
+  font-size: 13px;
+
+  font-weight: 600;
+}
+
+.weather-content strong {
+  color: #0f172a;
+
+  font-size: 21px;
+
+  font-weight: 800;
+}
+
+
+/* =========================================================
+   TRAVEL INSIGHT
+========================================================= */
+
+.travel-insight {
+  display: flex;
+
+  align-items: flex-start;
+
+  gap: 16px;
+
+  background: white;
+
+  border: 1px solid #dbeafe;
+
+  border-left: 5px solid #2563eb;
+
+  border-radius: 18px;
+
+  padding: 22px 25px;
+
+  margin-bottom: 15px;
+
+  box-shadow:
+    0 8px 25px rgba(15, 23, 42, 0.05);
+}
+
+.insight-icon {
+  width: 45px;
+
+  height: 45px;
+
+  border-radius: 13px;
+
+  background: #eff6ff;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  font-size: 22px;
+
+  flex-shrink: 0;
+}
+
+.travel-insight span,
+.best-time-card span {
+  font-size: 11px;
+
+  font-weight: 800;
+
+  letter-spacing: 1px;
+
+  color: #2563eb;
+}
+
+.travel-insight p {
+  margin: 7px 0 0;
+
+  color: #334155;
+
+  font-size: 16px;
+
+  line-height: 1.6;
+}
+
+
+/* =========================================================
+   BEST TIME
+========================================================= */
+
+.best-time-card {
+  display: flex;
+
+  align-items: center;
+
+  gap: 15px;
+
+  background: #fffbeb;
+
+  border: 1px solid #fde68a;
+
+  border-radius: 18px;
+
+  padding: 18px 22px;
+}
+
+.best-time-icon {
+  width: 45px;
+
+  height: 45px;
+
+  background: #fef3c7;
+
+  border-radius: 13px;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  font-size: 22px;
+}
+
+.best-time-card span {
+  color: #b45309;
+}
+
+.best-time-card p {
+  margin: 5px 0 0;
+
+  color: #78350f;
+
+  font-size: 15px;
+
+  line-height: 1.5;
+}
+
+
+/* =========================================================
+   PLACES SECTION
+========================================================= */
+
+.places-section {
+  width: 92%;
+
+  max-width: 1400px;
+
+  margin: 0 auto;
+}
+
+.places-heading {
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: flex-end;
+
+  margin-bottom: 25px;
+}
+
+.place-count {
+  background: #eff6ff;
+
+  color: #2563eb;
+
+  padding: 8px 14px;
+
+  border-radius: 20px;
+
+  font-size: 13px;
+
+  font-weight: 700;
+}
+
+
+/* =========================================================
+   RESULTS GRID
+========================================================= */
+
+.results {
+  width: 100%;
+
+  margin: 0;
+
+  display: grid;
+
+  grid-template-columns:
+    repeat(
+      auto-fill,
+      minmax(350px, 1fr)
+    );
+
+  gap: 28px;
+}
+
+
+/* =========================================================
+   PLACE CARD
+========================================================= */
+
+.result-card {
+  background: white;
+
+  border-radius: 22px;
+
+  overflow: hidden;
+
+  border: 1px solid #e2e8f0;
+
+  box-shadow:
+    0 10px 30px rgba(15, 23, 42, 0.08);
+
+  cursor: pointer;
+
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+.result-card:hover {
+  transform: translateY(-8px);
+
+  box-shadow:
+    0 20px 45px rgba(15, 23, 42, 0.14);
+}
+
+
+/* =========================================================
+   IMAGE
+========================================================= */
+
+.card-image {
+  position: relative;
+
+  height: 245px;
+
+  overflow: hidden;
+
+  background: #e2e8f0;
+}
+
+.card-image img {
+  width: 100%;
+
+  height: 100%;
+
+  object-fit: cover;
+
+  display: block;
+
+  transition:
+    transform 0.5s ease;
+}
+
+.result-card:hover
+.card-image img {
+  transform: scale(1.06);
+}
+
+
+/* =========================================================
+   IMAGE OVERLAY
+========================================================= */
+
+.overlay {
+  position: absolute;
+
+  inset: 0;
+
+  background:
+    linear-gradient(
+      to top,
+      rgba(0, 0, 0, 0.82),
+      rgba(0, 0, 0, 0.25),
+      rgba(0, 0, 0, 0.03)
+    );
+}
+
+
+/* =========================================================
+   RATING
+========================================================= */
+
+.rating {
+  position: absolute;
+
+  top: 17px;
+
+  right: 17px;
+
+  background: rgba(
+    255,
+    255,
+    255,
+    0.96
+  );
+
+  padding: 8px 13px;
+
+  border-radius: 25px;
+
+  font-size: 14px;
+
+  font-weight: 800;
+
+  color: #0f172a;
+
+  box-shadow:
+    0 5px 15px rgba(0, 0, 0, 0.15);
+}
+
+
+/* =========================================================
+   PLACE NAME
+========================================================= */
+
+.place-name {
+  position: absolute;
+
+  left: 20px;
+
+  right: 20px;
+
+  bottom: 19px;
+
+  color: white;
+
+  z-index: 2;
+}
+
+.place-name h2 {
+  margin: 0;
+
+  font-size: 27px;
+
+  font-weight: 800;
+
+  line-height: 1.2;
+}
+
+.place-name p {
+  margin: 7px 0 0;
+
+  font-size: 14px;
+
+  opacity: 0.9;
+}
+
+
+/* =========================================================
+   CONTENT
+========================================================= */
+
+.content {
+  padding: 21px;
+}
+
+
+/* =========================================================
+   DETAILS
+========================================================= */
+
+.details {
+  display: grid;
+
+  grid-template-columns:
+    repeat(3, 1fr);
+
+  gap: 8px;
+
+  margin-bottom: 20px;
+}
+
+.detail-box {
+  text-align: center;
+
+  padding: 8px 4px;
+
+  border-right:
+    1px solid #e2e8f0;
+}
+
+.detail-box:last-child {
+  border-right: none;
+}
+
+.detail-icon {
+  font-size: 19px;
+
+  margin-bottom: 5px;
+}
+
+.detail-box span {
+  display: block;
+
+  color: #94a3b8;
+
+  font-size: 11px;
+
+  font-weight: 600;
+
+  margin-bottom: 4px;
+}
+
+.detail-box strong {
+  display: block;
+
+  color: #334155;
+
+  font-size: 13px;
+
+  font-weight: 700;
+
+  white-space: nowrap;
+
+  overflow: hidden;
+
+  text-overflow: ellipsis;
+}
+
+
+/* =========================================================
+   EXPLORE BUTTON
+========================================================= */
+
+.explore-btn {
+  width: 100%;
+
+  padding: 14px 18px;
+
+  border: none;
+
+  border-radius: 12px;
+
+  background: #2563eb;
+
+  color: white;
+
+  font-size: 15px;
+
+  font-weight: 700;
+
+  cursor: pointer;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  gap: 10px;
+
+  transition: 0.25s ease;
+}
+
+.explore-btn span {
+  font-size: 19px;
+
+  transition: 0.25s ease;
+}
+
+.explore-btn:hover {
+  background: #1d4ed8;
+}
+
+.explore-btn:hover span {
+  transform: translateX(4px);
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 900px) {
+
+  .weather-grid {
+    grid-template-columns:
+      repeat(2, 1fr);
+  }
+
+  .results {
+    grid-template-columns:
+      repeat(
+        auto-fill,
+        minmax(300px, 1fr)
+      );
+  }
+
+  .district-heading h1 {
+    font-size: 38px;
+  }
+
+}
+
+
+/* =========================================================
+   MOBILE
+========================================================= */
+
+@media (max-width: 600px) {
+
+  .district-header,
+  .district-information,
+  .places-section {
+    width: 92%;
+  }
+
+  .district-header {
+    padding-top: 25px;
+  }
+
+  .district-heading {
+    padding: 25px;
+    border-radius: 20px;
+  }
+
+  .district-heading h1 {
+    font-size: 31px;
+  }
+
+  .district-heading p {
+    font-size: 14px;
+  }
+
+  .info-title h2,
+  .places-heading h2 {
+    font-size: 23px;
+  }
+
+  .weather-grid {
+    grid-template-columns: 1fr 1fr;
+
+    gap: 12px;
+  }
+
+  .weather-card {
+    padding: 15px;
+
+    gap: 10px;
+  }
+
+  .weather-icon {
+    width: 42px;
+
+    height: 42px;
+
+    font-size: 20px;
+  }
+
+  .weather-content strong {
+    font-size: 17px;
+  }
+
+  .weather-content span {
+    font-size: 11px;
+  }
+
+  .travel-insight {
+    padding: 18px;
+  }
+
+  .travel-insight p {
+    font-size: 14px;
+  }
+
+  .places-heading {
+    align-items: flex-start;
+
+    gap: 12px;
+
+    flex-direction: column;
+  }
+
+  .results {
+    grid-template-columns: 1fr;
+
+    gap: 20px;
+  }
+
+  .card-image {
+    height: 220px;
+  }
+
+  .place-name h2 {
+    font-size: 24px;
+  }
+
+}
