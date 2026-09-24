@@ -14,7 +14,7 @@ const tripOptions = [
 export default function TravelForm() {
 
   // ---------------- API URL ----------------
- const API_URL = import.meta.env.VITE_API_URL;
+ const API_URL = import.meta.env.VITE_API_URL;95
 
   // ---------------- Form ----------------
   const [form, setForm] = useState(() => {
@@ -149,7 +149,7 @@ export default function TravelForm() {
     try {
 
       const response = await axios.post(
-        `${API_URL}api/recommend`,
+        `${API_URL}/api/recommend`,
         payload,
         {
           headers: {
