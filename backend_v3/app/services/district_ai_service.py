@@ -1,14 +1,6 @@
-import os
-import json
-from google import genai
-from dotenv import load_dotenv
-
-load_dotenv()
-
-client = genai.Client(
-    api_key=os.getenv("GCP_API_KEY")
-)
-
+# ============================================================
+# Generate District Weather Information
+# ============================================================
 
 def generate_district_information(district, weather):
 
@@ -23,29 +15,43 @@ def generate_district_information(district, weather):
         precipitation = current.get("precipitation")
         wind_speed = current.get("wind_speed_10m")
 
-        prompt = f"""
-You are a travel assistant.
+        # ----------------------------------------------------
+        # Generate Travel Statement
+        # ----------------------------------------------------
 
-District: {district}
+        if precipitation is not None and precipitation > 5:
 
-Temperature: {temperature} °C
-Humidity: {humidity} %
-Rain: {precipitation} mm
-Wind: {wind_speed} km/h
+            statement = (
+                "Rainy conditions may affect outdoor travel today."
+            )
 
-Give ONE short travel statement based on
-the current weather.
+        elif wind_speed is not None and wind_speed > 30:
 
-Do not mention exact weather numbers.
-Return only one short sentence.
-"""
+            statement = (
+                "Strong winds may affect outdoor activities today."
+            )
 
-        response = client.models.generate_content(
-            model="gemini-3.5-flash-lite",
-            contents=prompt
-        )
+        elif temperature is not None and temperature > 35:
 
-        statement = response.text.strip()
+            statement = (
+                "Hot conditions may make outdoor activities uncomfortable."
+            )
+
+        elif temperature is not None and temperature < 15:
+
+            statement = (
+                "Cool weather is expected, so carry suitable clothing."
+            )
+
+        else:
+
+            statement = (
+                "The weather looks suitable for outdoor travel today."
+            )
+
+        # ----------------------------------------------------
+        # Return Weather Information
+        # ----------------------------------------------------
 
         return {
             "temperature": temperature,
@@ -58,7 +64,7 @@ Return only one short sentence.
     except Exception as e:
 
         print(
-            f"Gemini Error for {district}:",
+            f"Weather Error for {district}:",
             e
         )
 

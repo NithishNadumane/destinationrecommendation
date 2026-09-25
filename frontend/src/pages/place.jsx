@@ -1,10 +1,9 @@
 import React from "react";
-import { useLocation, useNavigate } from "react-router-dom";
+import { useLocation } from "react-router-dom";
 import "../css/place.css";
 
 const DistrictPlaces = () => {
   const location = useLocation();
-  const navigate = useNavigate();
 
   // -----------------------------------------
   // Data from previous page
@@ -24,14 +23,16 @@ const DistrictPlaces = () => {
   const wind = districtInfo?.wind_speed;
 
   // -----------------------------------------
-  // Navigate to place
-  // Works in local + production
+  // Navigate to Be Like Traveller
+  // Opens in NEW TAB
   // -----------------------------------------
 
   const handlePlaceNavigation = (place) => {
-    navigate(
-      `/destination/${place.district_slug}/${place.place_slug}`
-    );
+    const url =
+      `https://beliketraveller.vercel.app/destination/` +
+      `${place.district_slug}/${place.place_slug}`;
+
+    window.open(url, "_blank", "noopener,noreferrer");
   };
 
   return (
@@ -297,9 +298,6 @@ const DistrictPlaces = () => {
             <div
               key={i}
               className="result-card"
-              onClick={() =>
-                handlePlaceNavigation(place)
-              }
             >
 
               {/* =================================
@@ -428,13 +426,8 @@ const DistrictPlaces = () => {
 
                 <button
                   className="explore-btn"
-                  onClick={(e) => {
-
-                    // Prevent card click
-                    e.stopPropagation();
-
+                  onClick={() => {
                     handlePlaceNavigation(place);
-
                   }}
                 >
 
@@ -460,4 +453,4 @@ const DistrictPlaces = () => {
   );
 };
 
-export default DistrictPlaces;
+export default DistrictPlaces; 
